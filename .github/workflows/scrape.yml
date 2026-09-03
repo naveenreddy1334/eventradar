@@ -43,6 +43,12 @@ jobs:
           git diff --staged --quiet || git commit -m "Update event data ($(date -u +%Y-%m-%dT%H:%MZ))"
           git push
 
+      - name: Ensure failure label exists
+        if: hashFiles('failed_sources.txt') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh label create scrape-failure --color FF0000 --description "Event Radar scraper failure" || true
+
       - name: Notify on scraper failure (GitHub Issue)
         if: hashFiles('failed_sources.txt') != ''
         env:
