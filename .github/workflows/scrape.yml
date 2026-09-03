@@ -1,0 +1,83 @@
+name: Scrape events
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run allevents.in scraper
+        run: python scraper/allevents_scraper.py > allevents_raw.json || echo '{"ok":false,"events":[],"source":"allevents.in"}' > allevents_raw.json
+        continue-on-error: true
+
+      - name: Run BookMyShow scraper
+        run: python scraper/bookmyshow_scraper.py > bookmyshow_raw.json || echo '{"ok":false,"events":[],"source":"bookmyshow.com"}' > bookmyshow_raw.json
+        continue-on-error: true
+
+      - name: Merge into docs/data.json
+        run: python scraper/merge.py allevents_raw.json bookmyshow_raw.json
+
+      - name: Commit updated data
+        run: |
+          git config user.name "event-radar-bot"
+          git config user.email "actions@github.com"
+          git add docs/data.json
+          git diff --staged --quiet || git commit -m "Update event data ($(date -u +%Y-%m-%dT%H:%MZ))"
+          git push
+
+      - name: Notify on scraper failure (GitHub Issue)
+        if: hashFiles('failed_sources.txt') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FAILED=$(cat failed_sources.txt)
+          EXISTING=$(gh issue list --label scrape-failure --state open --json number --jq '.[0].number')
+          BODY="**Sources currently failing:** $FAILED
+
+          The dashboard is still showing the last known-good data for these sources (see merge.py fallback), but they haven't refreshed. Check the Actions run for this workflow to see scraper logs, then see the fix notes at the top of the relevant scraper file in \`scraper/\`.
+
+          This issue auto-closes once a scrape run succeeds for all sources."
+          if [ -z "$EXISTING" ]; then
+            gh issue create --title "Event Radar: scraper failing ($FAILED)" --body "$BODY" --label scrape-failure
+          else
+            gh issue comment "$EXISTING" --body "Still failing as of $(date -u +%Y-%m-%dT%H:%MZ): $FAILED"
+          fi
+
+      - name: Close failure issue if all sources are healthy again
+        if: hashFiles('failed_sources.txt') == ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          EXISTING=$(gh issue list --label scrape-failure --state open --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            gh issue comment "$EXISTING" --body "All sources scraped successfully as of $(date -u +%Y-%m-%dT%H:%MZ). Closing."
+            gh issue close "$EXISTING"
+          fi
+
+      - name: Notify Slack (optional)
+        if: hashFiles('failed_sources.txt') != '' && env.SLACK_WEBHOOK_URL != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          FAILED=$(cat failed_sources.txt)
+          curl -s -X POST -H 'Content-type: application/json' \
+            --data "{\"text\":\":warning: Event Radar: scraper failing for *$FAILED*. Dashboard is showing last known-good data for that source. Check the Actions tab.\"}" \
+            "$SLACK_WEBHOOK_URL"

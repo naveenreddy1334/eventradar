@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Event Radar — Leap Interactive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#12161F;
+    --panel:#1A2029;
+    --row:#1E2530;
+    --row-hover:#242C39;
+    --border:#2A3140;
+    --text:#EBEDF1;
+    --text-dim:#8B93A3;
+    --amber:#F2A93B;
+    --teal:#4FD1C5;
+    --coral:#E8735A;
+    --violet:#9B8CF2;
+    --pink:#E86BA0;
+    --lime:#A3D65C;
+    --gray:#6B7280;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--text);
+    font-family:'Inter',sans-serif;
+    padding:32px 24px 64px;
+  }
+  .wrap{max-width:960px;margin:0 auto;}
+  .board-head{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    border-bottom:2px solid var(--border);
+    padding-bottom:16px;
+    margin-bottom:20px;
+    flex-wrap:wrap;
+    gap:12px;
+  }
+  .board-title{
+    font-family:'Archivo',sans-serif;
+    font-weight:700;
+    font-size:26px;
+    letter-spacing:0.5px;
+  }
+  .board-sub{
+    color:var(--text-dim);
+    font-size:13px;
+    margin-top:4px;
+  }
+  .updated{
+    font-size:12px;
+    color:var(--text-dim);
+    text-align:right;
+  }
+  .months{
+    display:flex;
+    gap:6px;
+    margin-bottom:16px;
+    flex-wrap:wrap;
+  }
+  .month-btn{
+    font-family:'Archivo',sans-serif;
+    background:var(--panel);
+    border:1px solid var(--border);
+    color:var(--text-dim);
+    padding:8px 16px;
+    font-size:13px;
+    font-weight:600;
+    letter-spacing:0.3px;
+    cursor:pointer;
+    border-radius:4px;
+  }
+  .month-btn.active{
+    background:var(--amber);
+    color:#3A2A08;
+    border-color:var(--amber);
+  }
+  .controls{
+    display:flex;
+    gap:8px;
+    margin-bottom:20px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+  .search{
+    flex:1;
+    min-width:180px;
+    background:var(--panel);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:9px 12px;
+    border-radius:4px;
+    font-size:13px;
+    font-family:'Inter',sans-serif;
+  }
+  .search::placeholder{color:var(--text-dim);}
+  .chip{
+    background:transparent;
+    border:1px solid var(--border);
+    color:var(--text-dim);
+    padding:7px 12px;
+    font-size:12px;
+    border-radius:4px;
+    cursor:pointer;
+    white-space:nowrap;
+  }
+  .chip.active{
+    color:#0D1117;
+    border-color:transparent;
+  }
+  .cat-concert.active{background:var(--amber);}
+  .cat-comedy.active{background:var(--pink);}
+  .cat-sports.active{background:var(--coral);}
+  .cat-festival.active{background:var(--violet);}
+  .cat-education.active{background:var(--lime);}
+  .cat-corporate.active{background:var(--teal);}
+  .cat-theatre.active{background:var(--gray); color:var(--text);}
+
+  .count-line{
+    font-size:12px;
+    color:var(--text-dim);
+    margin-bottom:10px;
+  }
+  .events{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+  }
+  .row{
+    display:flex;
+    align-items:center;
+    gap:16px;
+    background:var(--row);
+    border-left:3px solid var(--gray);
+    padding:12px 14px;
+  }
+  .row:hover{background:var(--row-hover);}
+  .row.cat-concert{border-left-color:var(--amber);}
+  .row.cat-comedy{border-left-color:var(--pink);}
+  .row.cat-sports{border-left-color:var(--coral);}
+  .row.cat-festival{border-left-color:var(--violet);}
+  .row.cat-education{border-left-color:var(--lime);}
+  .row.cat-corporate{border-left-color:var(--teal);}
+  .row.cat-theatre{border-left-color:var(--gray);}
+
+  .date-block{
+    font-family:'Archivo',sans-serif;
+    text-align:center;
+    min-width:52px;
+  }
+  .date-day{font-size:20px;font-weight:700;line-height:1;}
+  .date-mon{font-size:11px;color:var(--text-dim);letter-spacing:1px;}
+  .info{flex:1;min-width:0;}
+  .ev-name{font-size:14px;font-weight:600;margin:0;}
+  .ev-meta{font-size:12px;color:var(--text-dim);margin-top:3px;}
+  .tag{
+    font-size:10px;
+    text-transform:uppercase;
+    letter-spacing:0.5px;
+    padding:3px 8px;
+    border-radius:3px;
+    font-weight:600;
+    white-space:nowrap;
+  }
+  .tag.cat-concert{background:rgba(242,169,59,0.15);color:var(--amber);}
+  .tag.cat-comedy{background:rgba(232,107,160,0.15);color:var(--pink);}
+  .tag.cat-sports{background:rgba(232,115,90,0.15);color:var(--coral);}
+  .tag.cat-festival{background:rgba(155,140,242,0.15);color:var(--violet);}
+  .tag.cat-education{background:rgba(163,214,92,0.15);color:var(--lime);}
+  .tag.cat-corporate{background:rgba(79,209,197,0.15);color:var(--teal);}
+  .tag.cat-theatre{background:rgba(107,114,128,0.2);color:#B4B9C2;}
+  .empty{
+    text-align:center;
+    padding:40px 20px;
+    color:var(--text-dim);
+    font-size:13px;
+  }
+  .note{
+    margin-top:28px;
+    padding:14px 16px;
+    background:var(--panel);
+    border:1px solid var(--border);
+    border-radius:6px;
+    font-size:12px;
+    color:var(--text-dim);
+    line-height:1.6;
+  }
+  .banner{
+    display:none;
+    background:rgba(232,115,90,0.12);
+    border:1px solid var(--coral);
+    color:var(--coral);
+    padding:10px 14px;
+    border-radius:4px;
+    font-size:12px;
+    margin-bottom:16px;
+  }
+  .banner.show{display:block;}
+  .toolbar{
+    display:flex;
+    gap:8px;
+    margin-bottom:12px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+  .select{
+    background:var(--panel);
+    border:1px solid var(--border);
+    color:var(--text);
+    padding:8px 10px;
+    border-radius:4px;
+    font-size:12px;
+    font-family:'Inter',sans-serif;
+  }
+  .btn-ghost{
+    background:transparent;
+    border:1px solid var(--border);
+    color:var(--text-dim);
+    padding:7px 12px;
+    font-size:12px;
+    border-radius:4px;
+    cursor:pointer;
+  }
+  .btn-ghost:hover{border-color:var(--text-dim);color:var(--text);}
+  .btn-ghost.active{background:var(--teal);color:#062A26;border-color:var(--teal);}
+  .src-badge{
+    font-size:9px;
+    color:var(--text-dim);
+    text-transform:uppercase;
+    letter-spacing:0.4px;
+    white-space:nowrap;
+  }
+  .interested-box{
+    width:16px;height:16px;
+    cursor:pointer;
+    accent-color:var(--teal);
+    flex-shrink:0;
+  }
+  .row.interested{opacity:0.5;}
+  .row-right{display:flex;flex-direction:column;align-items:flex-end;gap:4px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="board-head">
+    <div>
+      <div class="board-title">EVENT RADAR</div>
+      <div class="board-sub">Leap Interactive — lead scouting board</div>
+    </div>
+    <div class="updated" id="updated">Loading...</div>
+  </div>
+
+  <div class="banner" id="banner"></div>
+
+  <div class="months" id="months"></div>
+
+  <div class="toolbar">
+    <input type="text" class="search" id="search" placeholder="Search event, city or venue...">
+    <select class="select" id="cityFilter"><option value="all">All cities</option></select>
+    <button class="btn-ghost" id="next7Btn">Next 7 days</button>
+    <button class="btn-ghost" id="hideInterestedBtn">Hide pitched</button>
+    <button class="btn-ghost" id="exportBtn">Export CSV</button>
+  </div>
+  <div class="controls" id="cats"></div>
+
+  <div class="count-line" id="count"></div>
+  <div class="events" id="events"></div>
+  <div class="note" id="note">Loading event data...</div>
+</div>
+
+<script>
+let events = [];
+
+const monthNames = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+let monthsPresent = [];
+
+let activeMonth = null;
+let activeCat = "all";
+let activeCity = "all";
+let searchTerm = "";
+let next7Only = false;
+let hideInterested = false;
+
+const INTERESTED_KEY = 'eventRadar_interested';
+function getInterested(){
+  try{ return JSON.parse(localStorage.getItem(INTERESTED_KEY) || '{}'); }catch(e){ return {}; }
+}
+function setInterested(map){
+  try{ localStorage.setItem(INTERESTED_KEY, JSON.stringify(map)); }catch(e){}
+}
+function eventKey(e){ return e.name + '|' + e.date + '|' + e.city; }
+
+const catLabels = {concert:"Concert",comedy:"Comedy",sports:"Sports",festival:"Festival",education:"Education",corporate:"Corporate",theatre:"Theatre"};
+
+function renderMonths(){
+  const el = document.getElementById('months');
+  el.innerHTML = monthsPresent.map(m => {
+    const [y,mo] = m.split('-');
+    const label = monthNames[parseInt(mo,10)-1] + " " + y;
+    return `<button class="month-btn${m===activeMonth?' active':''}" data-month="${m}">${label}</button>`;
+  }).join('');
+  el.querySelectorAll('.month-btn').forEach(b => b.addEventListener('click', () => {
+    activeMonth = b.dataset.month;
+    next7Only = false;
+    document.getElementById('next7Btn').classList.remove('active');
+    renderMonths();
+    renderEvents();
+  }));
+}
+
+function renderCats(){
+  const catsInMonth = [...new Set(events.filter(e=>e.date.slice(0,7)===activeMonth).map(e=>e.cat))];
+  const el = document.getElementById('cats');
+  let html = `<button class="chip${activeCat==='all'?' active':''}" data-cat="all" style="${activeCat==='all'?'background:var(--text-dim);color:#0D1117;':''}">All</button>`;
+  html += catsInMonth.map(c => `<button class="chip cat-${c}${activeCat===c?' active':''}" data-cat="${c}">${catLabels[c]}</button>`).join('');
+  el.innerHTML = html;
+  el.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+    activeCat = b.dataset.cat;
+    renderCats();
+    renderEvents();
+  }));
+}
+
+function renderCityFilter(){
+  const cities = [...new Set(events.map(e => e.city))].sort();
+  const el = document.getElementById('cityFilter');
+  el.innerHTML = '<option value="all">All cities</option>' +
+    cities.map(c => `<option value="${c}">${c}</option>`).join('');
+  el.value = activeCity;
+}
+
+function renderEvents(){
+  const interested = getInterested();
+  const today = new Date(); today.setHours(0,0,0,0);
+  const in7 = new Date(today); in7.setDate(in7.getDate()+7);
+
+  const filtered = events.filter(e => {
+    if(next7Only){
+      const d = new Date(e.date+"T00:00:00");
+      if(d < today || d > in7) return false;
+    } else if(e.date.slice(0,7) !== activeMonth) return false;
+    if(activeCat !== 'all' && e.cat !== activeCat) return false;
+    if(activeCity !== 'all' && e.city !== activeCity) return false;
+    if(hideInterested && interested[eventKey(e)]) return false;
+    if(searchTerm){
+      const hay = (e.name+" "+e.city+" "+e.venue).toLowerCase();
+      if(!hay.includes(searchTerm.toLowerCase())) return false;
+    }
+    return true;
+  }).sort((a,b)=> a.date.localeCompare(b.date));
+
+  document.getElementById('count').textContent = filtered.length + (filtered.length===1 ? " event" : " events") + " found";
+
+  const el = document.getElementById('events');
+  if(filtered.length === 0){
+    el.innerHTML = '<div class="empty">No events match. Try another month or clear filters.</div>';
+    return;
+  }
+  el.innerHTML = filtered.map(e => {
+    const d = new Date(e.date+"T00:00:00");
+    const day = d.getDate();
+    const mon = monthNames[d.getMonth()];
+    const key = eventKey(e);
+    const isInterested = !!interested[key];
+    return `<div class="row cat-${e.cat}${isInterested?' interested':''}">
+      <div class="date-block"><div class="date-day">${day}</div><div class="date-mon">${mon}</div></div>
+      <div class="info">
+        <p class="ev-name">${e.name}</p>
+        <div class="ev-meta">${e.city} — ${e.venue}</div>
+      </div>
+      <div class="row-right">
+        <div class="tag cat-${e.cat}">${catLabels[e.cat]}</div>
+        <div class="src-badge">${e.source || 'manual'}</div>
+      </div>
+      <input type="checkbox" class="interested-box" data-key="${key}" ${isInterested?'checked':''} title="Mark as pitched">
+    </div>`;
+  }).join('');
+
+  el.querySelectorAll('.interested-box').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const map = getInterested();
+      if(cb.checked) map[cb.dataset.key] = true; else delete map[cb.dataset.key];
+      setInterested(map);
+      renderEvents();
+    });
+  });
+}
+
+function exportCSV(){
+  const rows = [["Date","Event","City","Venue","Category","Source"]];
+  events.slice().sort((a,b)=>a.date.localeCompare(b.date)).forEach(e => {
+    rows.push([e.date, e.name, e.city, e.venue, catLabels[e.cat]||e.cat, e.source||'manual']);
+  });
+  const csv = rows.map(r => r.map(v => `"${String(v).replace(/"/g,'""')}"`).join(',')).join('\n');
+  const blob = new Blob([csv], {type:'text/csv'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'event-radar-export.csv';
+  a.click();
+}
+
+document.getElementById('cityFilter').addEventListener('change', (e) => {
+  activeCity = e.target.value;
+  renderEvents();
+});
+document.getElementById('next7Btn').addEventListener('click', () => {
+  next7Only = !next7Only;
+  document.getElementById('next7Btn').classList.toggle('active', next7Only);
+  renderEvents();
+});
+document.getElementById('hideInterestedBtn').addEventListener('click', () => {
+  hideInterested = !hideInterested;
+  document.getElementById('hideInterestedBtn').classList.toggle('active', hideInterested);
+  renderEvents();
+});
+document.getElementById('exportBtn').addEventListener('click', exportCSV);
+
+document.getElementById('search').addEventListener('input', (e) => {
+  searchTerm = e.target.value;
+  renderEvents();
+});
+
+function renderStatus(sources, generatedAt, failedSources){
+  const lines = Object.entries(sources || {}).map(([name, s]) => {
+    const ok = s.status === 'ok';
+    return `${name}: ${ok ? s.event_count + ' events' : s.status}`;
+  });
+  document.getElementById('note').innerHTML =
+    `Sources — ${lines.join(' &nbsp;|&nbsp; ')}. Corporate launches and school/college events rarely get public ticketing pages — add those manually as your team hears about them.`;
+  const genDate = generatedAt ? new Date(generatedAt) : null;
+  document.getElementById('updated').textContent = genDate
+    ? `Data refreshed ${genDate.toLocaleString('en-IN', {dateStyle:'medium', timeStyle:'short'})}`
+    : '';
+
+  const banner = document.getElementById('banner');
+  if(failedSources && failedSources.length){
+    banner.textContent = `Heads up: ${failedSources.join(', ')} failed to refresh — showing last known data for that source. A GitHub issue has been filed automatically.`;
+    banner.classList.add('show');
+  } else {
+    banner.classList.remove('show');
+  }
+}
+
+fetch('./data.json?_=' + Date.now())
+  .then(r => {
+    if(!r.ok) throw new Error('data.json not found (' + r.status + ')');
+    return r.json();
+  })
+  .then(data => {
+    events = data.events || [];
+    if(events.length === 0){
+      document.getElementById('events').innerHTML = '<div class="empty">No events loaded yet. The scraper may not have run — check GitHub Actions logs.</div>';
+      document.getElementById('count').textContent = '';
+      renderStatus(data.sources, data.generated_at);
+      return;
+    }
+    monthsPresent = [...new Set(events.map(e => e.date.slice(0,7)))].sort();
+    const today = new Date().toISOString().slice(0,7);
+    activeMonth = monthsPresent.includes(today) ? today : monthsPresent[0];
+    renderMonths();
+    renderCats();
+    renderCityFilter();
+    renderEvents();
+    renderStatus(data.sources, data.generated_at, data.failed_sources);
+  })
+  .catch(err => {
+    document.getElementById('events').innerHTML =
+      '<div class="empty">Could not load event data: ' + err.message + '<br>If this is a fresh setup, the scraper hasn\'t run yet — check the Actions tab.</div>';
+    document.getElementById('updated').textContent = 'Load failed';
+    document.getElementById('note').textContent = '';
+  });
+</script>
+</body>
+</html>
