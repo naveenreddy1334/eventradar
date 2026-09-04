@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T03:58:37.950566Z",
+  "generated_at": "2026-09-04T06:46:50.509489Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-09-04T03:58:04.834657Z",
+      "last_success": "2026-09-04T06:46:18.285566Z",
       "event_count": 159,
       "status": "ok"
     },
@@ -134,15 +134,6 @@
       "source_url": "https://allevents.in/bangalore/corporate-majdoor-by-anmol-garg/3900030599797317"
     },
     {
-      "name": "Taylor Swift: The Night Of A Showgirl (Fan Event)",
-      "date": "2026-09-05",
-      "city": "Mumbai",
-      "venue": "Veranda: Khar",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/taylor-swift-the-night-of-a-showgirl-fan-event/3900030573883946"
-    },
-    {
       "name": "Beti Testing",
       "date": "2026-09-05",
       "city": "Mumbai",
@@ -150,6 +141,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/beti-testing/3900030519130751"
+    },
+    {
+      "name": "Taylor Swift: The Night Of A Showgirl (Fan Event)",
+      "date": "2026-09-05",
+      "city": "Mumbai",
+      "venue": "Veranda: Khar",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/taylor-swift-the-night-of-a-showgirl-fan-event/3900030573883946"
     },
     {
       "name": "Love, Death &amp; Ketchup by Varun Grover",
@@ -177,6 +177,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/allin-showcase-featuring-arjun-vagale-calm-chor-and-ash-roy/4100030622269705"
+    },
+    {
+      "name": "Sri Krishn Janmashtami - Anuj Sharma &amp; GK Das Live",
+      "date": "2026-09-05",
+      "city": "Mumbai",
+      "venue": "Bhaktivedanta Swami Mission School: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/sri-krishn-janmashtami-anuj-sharma-and-gk-das-live/3900030548730510"
     },
     {
       "name": "Let's Laugh - India Tour",
@@ -404,24 +413,6 @@
       "source_url": "https://allevents.in/chennai/odyssey/4100030607145518"
     },
     {
-      "name": "Neon Painting Date - Chennai",
-      "date": "2026-09-05",
-      "city": "Chennai",
-      "venue": "Kreate by Kraft",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/neon-painting-date-chennai/4100030645241046"
-    },
-    {
-      "name": "Dot mandala art workhop",
-      "date": "2026-09-05",
-      "city": "Chennai",
-      "venue": "neha clinic",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/dot-mandala-art-workhop-tickets/80001656848194"
-    },
-    {
       "name": "Moon Lamp Workshop - Chennai",
       "date": "2026-09-05",
       "city": "Chennai",
@@ -438,6 +429,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/pipe-cleaner-crafts/3900030484851611"
+    },
+    {
+      "name": "Neon Painting Date - Chennai",
+      "date": "2026-09-05",
+      "city": "Chennai",
+      "venue": "Kreate by Kraft",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/neon-painting-date-chennai/4100030645241046"
+    },
+    {
+      "name": "Dot mandala art workhop",
+      "date": "2026-09-05",
+      "city": "Chennai",
+      "venue": "neha clinic",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/dot-mandala-art-workhop-tickets/80001656848194"
     },
     {
       "name": "90s vs 2k - Tamil jamming Bengaluru",
@@ -467,15 +476,6 @@
       "source_url": "https://allevents.in/mumbai/abhi-na-jao-chhod-kar-celebrate-asha-ji/3900030477376915"
     },
     {
-      "name": "Candlelight: Mehfil-e-Sufi | Mumbai",
-      "date": "2026-09-06",
-      "city": "Mumbai",
-      "venue": "Sofitel Mumbai BKC, C 57, Bandra Kurla Complex, Bandra East, Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/candlelight-mehfil-e-sufi-mumbai/200030442938843"
-    },
-    {
       "name": "SAHIR , MAJROOH AUR BURMAN",
       "date": "2026-09-06",
       "city": "Mumbai",
@@ -485,13 +485,22 @@
       "source_url": "https://allevents.in/mumbai/sahir-majrooh-aur-burman/3900030456458852"
     },
     {
-      "name": "Carvaan Live: Melody of Lata at Four Seasons",
+      "name": "Saaj Bhatt Live At Club Illusions",
       "date": "2026-09-06",
       "city": "Mumbai",
-      "venue": "Four Seasons Hotel, Worli: Mumbai",
+      "venue": "Club Illusion - Andheri West: Mumbai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/carvaan-live-melody-of-lata-at-four-seasons/3900030540341847"
+      "source_url": "https://allevents.in/mumbai/saaj-bhatt-live-at-club-illusions/3900030649554059"
+    },
+    {
+      "name": "Candlelight: Mehfil-e-Sufi | Mumbai",
+      "date": "2026-09-06",
+      "city": "Mumbai",
+      "venue": "Sofitel Mumbai BKC, C 57, Bandra Kurla Complex, Bandra East, Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/candlelight-mehfil-e-sufi-mumbai/200030442938843"
     },
     {
       "name": "Jamming Night",
@@ -611,15 +620,6 @@
       "source_url": "https://allevents.in/chennai/r-radhe-radhe/200030530978946"
     },
     {
-      "name": "Fluid Art",
-      "date": "2026-09-06",
-      "city": "Chennai",
-      "venue": "Third Wave Coffee, Kilpauk: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/fluid-art/3900030647127711"
-    },
-    {
       "name": "Japanese Kintsugi",
       "date": "2026-09-06",
       "city": "Chennai",
@@ -627,6 +627,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/japanese-kintsugi/3900030632547530"
+    },
+    {
+      "name": "Fluid Art",
+      "date": "2026-09-06",
+      "city": "Chennai",
+      "venue": "Third Wave Coffee, Kilpauk: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/fluid-art/3900030647127711"
     },
     {
       "name": "Two Types of People - by Kenny Sebastian",
@@ -638,15 +647,6 @@
       "source_url": "https://allevents.in/mumbai/two-types-of-people-by-kenny-sebastian/3900030562375256"
     },
     {
-      "name": "Dil Mein Asha",
-      "date": "2026-09-08",
-      "city": "Mumbai",
-      "venue": "Dinanath Mangeshkar Natyagruha: Vile Parle",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/dil-mein-asha/3900030572183231"
-    },
-    {
       "name": "EPD Conference 2026",
       "date": "2026-09-08",
       "city": "Mumbai",
@@ -656,15 +656,6 @@
       "source_url": "https://allevents.in/mumbai/epd-conference-2026/200030482025045"
     },
     {
-      "name": "KISHORE KUMAR SANU",
-      "date": "2026-09-09",
-      "city": "Mumbai",
-      "venue": "Mahakavi Kalidas Natyamandir: Mulund",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/kishore-kumar-sanu/3900030511694230"
-    },
-    {
       "name": "CHA-NO-YU Japanese Tea Ceremony - Lessons",
       "date": "2026-09-09",
       "city": "Chennai",
@@ -672,6 +663,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/cha-no-yu-japanese-tea-ceremony-lessons/3900030145071511"
+    },
+    {
+      "name": "SoundRise Vinyl Thursdays at Concu | 10th Sept | 8pm",
+      "date": "2026-09-10",
+      "city": "Mumbai",
+      "venue": "Con\u00e7u Colaba",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/soundrise-vinyl-thursdays-at-concu-10th-sept-8pm-tickets/80007897572842"
     },
     {
       "name": "VIR DAS - SOUNDS OF INDIA - BENGALURU",
@@ -717,6 +717,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/hrishikesh-ranade-live-in-concert/3900030403465255"
+    },
+    {
+      "name": "Bollywood Hits Then &amp; Now",
+      "date": "2026-09-11",
+      "city": "Mumbai",
+      "venue": "Shree Shivaji Mandir: Dadar",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/bollywood-hits-then-and-now/3900030311288411"
     },
     {
       "name": "Space Cadet ft. Varun Thakur: KCC",
@@ -789,15 +798,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/on-the-big-beautiful-musical-path/3900030502338000"
-    },
-    {
-      "name": "Bhajan Jamming - Soul Strings ft. Nandy Sisters",
-      "date": "2026-09-12",
-      "city": "Mumbai",
-      "venue": "Phoenix Marketcity: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/bhajan-jamming-soul-strings-ft-nandy-sisters/3900030502344912"
     },
     {
       "name": "Sambhavami Yugey Yugey",
@@ -897,15 +897,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/durbar-evenings-orchestral-qawwali-project/4100030496203148"
-    },
-    {
-      "name": "ImagiNesan - A Live Standup Show By Nesan David",
-      "date": "2026-09-13",
-      "city": "Mumbai",
-      "venue": "Backspace: Bandra West, Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/imaginesan-a-live-standup-show-by-nesan-david/3900030494983536"
     },
     {
       "name": "Hyderabad Dance Championship",
@@ -1340,6 +1331,15 @@
       "source_url": "https://allevents.in/mumbai/gjs-india-gem-and-jewellery-show-2026/200030535838846"
     },
     {
+      "name": "Golden Hits - The Classics Of A R Rahman",
+      "date": "2026-10-02",
+      "city": "Mumbai",
+      "venue": "Vishnudas Bhave Natyagruha: Navi Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/golden-hits-the-classics-of-a-r-rahman/3900030622391652"
+    },
+    {
       "name": "Millionaire Mind Intensive",
       "date": "2026-10-02",
       "city": "Mumbai",
@@ -1358,15 +1358,6 @@
       "source_url": "https://allevents.in/chennai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387700949"
     },
     {
-      "name": "Opeth in Mumbai",
-      "date": "2026-10-03",
-      "city": "Mumbai",
-      "venue": "TBD",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/opeth-in-mumbai/3300030215598956"
-    },
-    {
       "name": "IJS - INDIA JEWELLERY SHOW",
       "date": "2026-10-03",
       "city": "Mumbai",
@@ -1374,6 +1365,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/ijs-india-jewellery-show/200029857088841"
+    },
+    {
+      "name": "Opeth in Mumbai",
+      "date": "2026-10-03",
+      "city": "Mumbai",
+      "venue": "TBD",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/opeth-in-mumbai/3300030215598956"
     },
     {
       "name": "Allow Me!: A Standup Comedy Show by Rahul Dua",
