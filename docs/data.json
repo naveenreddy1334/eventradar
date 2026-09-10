@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T16:12:20.538681Z",
+  "generated_at": "2026-09-10T20:43:00.124454Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-09-10T16:11:47.432946Z",
+      "last_success": "2026-09-10T20:42:27.555639Z",
       "event_count": 159,
       "status": "ok"
     },
@@ -16,15 +16,6 @@
     "bookmyshow.com"
   ],
   "events": [
-    {
-      "name": "Digital Maritime Events and Conferences - Global Ports and Shipping Summit",
-      "date": "2026-09-10",
-      "city": "Mumbai",
-      "venue": "Taj Santacruz",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/digital-maritime-events-and-conferences-global-ports-and-shipping-summit/80004504425786"
-    },
     {
       "name": "Ganesha: Many Forms, One Presence",
       "date": "2026-09-10",
@@ -42,15 +33,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/akritti-wedding-special-exhibition-and-sale-taj-krishna-on-10-11-12-sep/200030666254535"
-    },
-    {
-      "name": "Wild documentary discussion",
-      "date": "2026-09-10",
-      "city": "Chennai",
-      "venue": "PVR Palazzo-The Nexus Vijaya Mall, Vadapalani, Chennai, Tamil Nadu, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/wild-documentary-discussion-tickets/80002198507428"
     },
     {
       "name": "VIR DAS - SOUNDS OF INDIA - BENGALURU",
@@ -251,6 +233,15 @@
       "source_url": "https://allevents.in/hyderabad/abijit-ganguly-live/3900030491177739"
     },
     {
+      "name": "One Night in Toki-O",
+      "date": "2026-09-12",
+      "city": "Hyderabad",
+      "venue": "Katha Crafthouse",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/one-night-in-toki-o/4100030567070257"
+    },
+    {
       "name": "KASYAP Live at HCC Gachibowli",
       "date": "2026-09-12",
       "city": "Hyderabad",
@@ -260,13 +251,22 @@
       "source_url": "https://allevents.in/hyderabad/kasyap-live-at-hcc-gachibowli/3900030669062130"
     },
     {
-      "name": "One Night in Toki-O",
+      "name": "Ayaan Vinuthna live at Akan Rooftop",
       "date": "2026-09-12",
       "city": "Hyderabad",
-      "venue": "Katha Crafthouse",
+      "venue": "Akan: Hyderabad",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/one-night-in-toki-o/4100030567070257"
+      "source_url": "https://allevents.in/hyderabad/ayaan-vinuthna-live-at-akan-rooftop/3900030668970257"
+    },
+    {
+      "name": "Threeory Band Live at Akan Home Coming Show 12sept",
+      "date": "2026-09-12",
+      "city": "Hyderabad",
+      "venue": "Akan: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/threeory-band-live-at-akan-home-coming-show-12sept/3900030678782421"
     },
     {
       "name": "Resin Geode Art Date - Hyderabad",
@@ -303,33 +303,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/fluid-art-therapy/3900030668695556"
-    },
-    {
-      "name": "Ayaan Vinuthna live at Akan Rooftop",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "Akan: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/ayaan-vinuthna-live-at-akan-rooftop/3900030668970257"
-    },
-    {
-      "name": "Threeory Band Live at Akan Home Coming Show 12sept",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "Akan: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/threeory-band-live-at-akan-home-coming-show-12sept/3900030678782421"
-    },
-    {
-      "name": "Bhakti &amp; Beats @ DSL Virtue Mall",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "DSL Virtue Mall: Uppal",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/bhakti-and-beats-dsl-virtue-mall/3900030665912129"
     },
     {
       "name": "Ganesh Ji Making Workshop at Broadway",
@@ -386,6 +359,15 @@
       "source_url": "https://allevents.in/chennai/book-klaydate-spot-chennai/3900030663857927"
     },
     {
+      "name": "Clay Date - Chennai",
+      "date": "2026-09-12",
+      "city": "Chennai",
+      "venue": "Kreate By Kraft: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/clay-date-chennai/3900030666961710"
+    },
+    {
       "name": "Moon Lamp Workshop - Chennai",
       "date": "2026-09-12",
       "city": "Chennai",
@@ -411,15 +393,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/ganesha-texture-art-chennai/3900030666947906"
-    },
-    {
-      "name": "Clay Date - Chennai",
-      "date": "2026-09-12",
-      "city": "Chennai",
-      "venue": "Kreate By Kraft: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/clay-date-chennai/3900030666961710"
     },
     {
       "name": "Chill with Chan - Indie storytelling&amp;Musical Jamm",
@@ -494,15 +467,6 @@
       "source_url": "https://allevents.in/hyderabad/decorative-soap-making/3900030606609248"
     },
     {
-      "name": "Clay Ganesha",
-      "date": "2026-09-13",
-      "city": "Chennai",
-      "venue": "Third Wave Coffee, Besant Nagar: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/clay-ganesha/3900030666489116"
-    },
-    {
       "name": "MINI CANVAS PAINTING",
       "date": "2026-09-13",
       "city": "Chennai",
@@ -528,6 +492,15 @@
       "cat": "education",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/resin-lotus-pond-workshop/3900030670397132"
+    },
+    {
+      "name": "Clay Ganesha",
+      "date": "2026-09-13",
+      "city": "Chennai",
+      "venue": "Third Wave Coffee, Besant Nagar: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/clay-ganesha/3900030666489116"
     },
     {
       "name": "Play Badminton With Strangers \u2013 Chennai",
@@ -737,15 +710,6 @@
       "source_url": "https://allevents.in/hyderabad/federal-bank-bharat-surotsav/3900030529514133"
     },
     {
-      "name": "Micless with Merakee",
-      "date": "2026-09-19",
-      "city": "Hyderabad",
-      "venue": "Lake Shore Mall: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/micless-with-merakee/3900030676053309"
-    },
-    {
       "name": "Daniel Fernandes - Do You Know Who I Am?",
       "date": "2026-09-19",
       "city": "Hyderabad",
@@ -753,15 +717,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/daniel-fernandes-do-you-know-who-i-am/3900030623740459"
-    },
-    {
-      "name": "A Night for Arijit singh ft. Root Three Five",
-      "date": "2026-09-19",
-      "city": "Hyderabad",
-      "venue": "Hard Rock Cafe Hitech City: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/a-night-for-arijit-singh-ft-root-three-five/3900030631663958"
     },
     {
       "name": "Jammers",
@@ -780,6 +735,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/goswadeshi-by-gocoop-hyderabad-kalinga-cultural-hall/200030675578606"
+    },
+    {
+      "name": "A Night for Arijit singh ft. Root Three Five",
+      "date": "2026-09-19",
+      "city": "Hyderabad",
+      "venue": "Hard Rock Cafe Hitech City: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/a-night-for-arijit-singh-ft-root-three-five/3900030631663958"
+    },
+    {
+      "name": "Micless with Merakee",
+      "date": "2026-09-19",
+      "city": "Hyderabad",
+      "venue": "Lake Shore Mall: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/micless-with-merakee/3900030676053309"
     },
     {
       "name": "Yuvan\u2019s Walking Through The Rainbow - A Symphonic Experience",
@@ -1007,15 +980,6 @@
       "source_url": "https://allevents.in/hyderabad/developer-event-and-conference-hyderabad-et-devnext/80004755752807"
     },
     {
-      "name": "Fake Wedding",
-      "date": "2026-09-26",
-      "city": "Hyderabad",
-      "venue": "Grand Lawn, Jalavihar: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/fake-wedding/3900030395227439"
-    },
-    {
       "name": "Salsa, Bachata, Partner Dance Workshop",
       "date": "2026-09-26",
       "city": "Hyderabad",
@@ -1023,6 +987,15 @@
       "cat": "education",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/salsa-bachata-partner-dance-workshop/3900030678415032"
+    },
+    {
+      "name": "Fake Wedding",
+      "date": "2026-09-26",
+      "city": "Hyderabad",
+      "venue": "Grand Lawn, Jalavihar: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/fake-wedding/3900030395227439"
     },
     {
       "name": "MICS MUSIC MARATHON - 4 SHOWS 11 LEGENDS(CHENNAI)",
@@ -1050,6 +1023,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/siri-gama-padha-nee-30/3900030586434504"
+    },
+    {
+      "name": "Chennai Freelancers Monthly Meetup - September 2026",
+      "date": "2026-09-26",
+      "city": "Chennai",
+      "venue": "Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chennai-freelancers-monthly-meetup-september-2026-tickets/80005813815487"
     },
     {
       "name": "ANIRUDH - THE SING ALONG NIGHT",
@@ -1223,6 +1205,15 @@
       "source_url": "https://allevents.in/mumbai/ijs-india-jewellery-show/200029857088841"
     },
     {
+      "name": "Seedhe Maut",
+      "date": "2026-10-03",
+      "city": "Hyderabad",
+      "venue": "Odeum By Prism",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/seedhe-maut/4100030654381039"
+    },
+    {
       "name": "Allow Me!: A Standup Comedy Show by Rahul Dua",
       "date": "2026-10-03",
       "city": "Hyderabad",
@@ -1266,6 +1257,15 @@
       "cat": "comedy",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701101"
+    },
+    {
+      "name": "The Founders X Investors Pitch D2C| 04th October  | Mumbai",
+      "date": "2026-10-04",
+      "city": "Mumbai",
+      "venue": "NMIMS Deemed-to-be-University",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/the-founders-x-investors-pitch-d2c-04th-october-mumbai-tickets/80003051469350"
     },
     {
       "name": "Zumba Masterclass and Workshops 2026",
