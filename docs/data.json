@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T10:59:53.125247Z",
+  "generated_at": "2026-09-11T16:15:33.912141Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-09-11T10:59:20.111035Z",
+      "last_success": "2026-09-11T16:15:02.002126Z",
       "event_count": 159,
       "status": "ok"
     },
@@ -44,15 +44,6 @@
       "source_url": "https://allevents.in/bangalore/the-humming-tree-presents-easy-wanderlings-ten-years-on-the-map/4100030584974311"
     },
     {
-      "name": "Bollywood Night Ft. Common Ground - The Finch",
-      "date": "2026-09-11",
-      "city": "Mumbai",
-      "venue": "The Finch - Andheri East: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/bollywood-night-ft-common-ground-the-finch/3900030678954701"
-    },
-    {
       "name": "Hrishikesh Ranade - Live in Concert",
       "date": "2026-09-11",
       "city": "Mumbai",
@@ -71,13 +62,13 @@
       "source_url": "https://allevents.in/mumbai/bollywood-hits-then-and-now/3900030311288411"
     },
     {
-      "name": "GoSwadeshi by GoCoop, Mumbai, JUHU, Valecha Hall",
+      "name": "Mayar Khela",
       "date": "2026-09-11",
       "city": "Mumbai",
-      "venue": "Valecha Hall, KRVIA, Vidyanidhi Marg, JVPD Scheme, JUHU",
+      "venue": "Bal Gandharva Rang Mandir: Bandra",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/goswadeshi-by-gocoop-mumbai-juhu-valecha-hall/200030645120932"
+      "source_url": "https://allevents.in/mumbai/mayar-khela/3900030559299955"
     },
     {
       "name": "Dhanunjay seepana",
@@ -96,6 +87,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/trade-fair-family-exhibition-featuring-chola-desam/3900030676923353"
+    },
+    {
+      "name": "Utsava Santh\u00e9",
+      "date": "2026-09-11",
+      "city": "Chennai",
+      "venue": "Express Avenue",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/utsava-santh\u00e9/80006669217815"
     },
     {
       "name": "SIIMA 2026",
@@ -125,15 +125,6 @@
       "source_url": "https://allevents.in/bangalore/saturday-let`s-party-at-happy-brew-koramangala-tickets/80002017046311"
     },
     {
-      "name": "Strings and Sing",
-      "date": "2026-09-12",
-      "city": "Mumbai",
-      "venue": "The Grand Theatre, NMACC",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/strings-and-sing/3900030279975438"
-    },
-    {
       "name": "Beti Testing",
       "date": "2026-09-12",
       "city": "Mumbai",
@@ -141,6 +132,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/beti-testing/3900030519130751"
+    },
+    {
+      "name": "Strings and Sing",
+      "date": "2026-09-12",
+      "city": "Mumbai",
+      "venue": "The Grand Theatre, NMACC",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/strings-and-sing/3900030279975438"
     },
     {
       "name": "Spoiler Alert ft. Anshu Mor: KCC",
@@ -179,13 +179,13 @@
       "source_url": "https://allevents.in/mumbai/the-poetry-affairs-mumbai/3900030566627418"
     },
     {
-      "name": "Ganpati making",
+      "name": "On The Big Beautiful Musical Path",
       "date": "2026-09-12",
       "city": "Mumbai",
-      "venue": "Third Wave Coffee: Lokhandwala",
+      "venue": "St. Andrews Auditorium: Mumbai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ganpati-making/3900030583562753"
+      "source_url": "https://allevents.in/mumbai/on-the-big-beautiful-musical-path/3900030502338000"
     },
     {
       "name": "SPB Lives on SP Charan Live",
@@ -204,15 +204,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/salt-air-and-swifts-flair/3900030335135929"
-    },
-    {
-      "name": "Abijit Ganguly Live",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "The Comedy Theatre: Hyderabad.",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/abijit-ganguly-live/3900030491177739"
     },
     {
       "name": "Taylor Swift: The Night Of A Showgirl (Fan Event)",
@@ -242,6 +233,15 @@
       "source_url": "https://allevents.in/hyderabad/the-other-side-ft-cera-khin/4100030625331213"
     },
     {
+      "name": "Abijit Ganguly Live",
+      "date": "2026-09-12",
+      "city": "Hyderabad",
+      "venue": "The Comedy Theatre: Hyderabad.",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/abijit-ganguly-live/3900030491177739"
+    },
+    {
       "name": "One Night in Toki-O",
       "date": "2026-09-12",
       "city": "Hyderabad",
@@ -249,15 +249,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/one-night-in-toki-o/4100030567070257"
-    },
-    {
-      "name": "KASYAP Live at HCC Gachibowli",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "Heart Cup Coffee: Gachibowli",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/kasyap-live-at-hcc-gachibowli/3900030669062130"
     },
     {
       "name": "Threeory Band Live at Akan Home Coming Show 12sept",
@@ -269,6 +260,15 @@
       "source_url": "https://allevents.in/hyderabad/threeory-band-live-at-akan-home-coming-show-12sept/3900030678782421"
     },
     {
+      "name": "KASYAP Live at HCC Gachibowli",
+      "date": "2026-09-12",
+      "city": "Hyderabad",
+      "venue": "Heart Cup Coffee: Gachibowli",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/kasyap-live-at-hcc-gachibowli/3900030669062130"
+    },
+    {
       "name": "Ayaan Vinuthna live at Akan Rooftop",
       "date": "2026-09-12",
       "city": "Hyderabad",
@@ -278,22 +278,13 @@
       "source_url": "https://allevents.in/hyderabad/ayaan-vinuthna-live-at-akan-rooftop/3900030668970257"
     },
     {
-      "name": "Ganesh Ji Making Workshop at Broadway",
+      "name": "Make Your Own Ganesha",
       "date": "2026-09-12",
       "city": "Hyderabad",
-      "venue": "Broadway - New Age Department Store: Hyderabad",
-      "cat": "education",
+      "venue": "Rumor - Sky Lounge: Hyderabad",
+      "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/ganesh-ji-making-workshop-at-broadway/3900030671516546"
-    },
-    {
-      "name": "Glass Bottle Painting Workshop",
-      "date": "2026-09-12",
-      "city": "Hyderabad",
-      "venue": "Third Wave Coffee, Knowledge City: Hyderabad",
-      "cat": "education",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/glass-bottle-painting-workshop/3900030606702202"
+      "source_url": "https://allevents.in/hyderabad/make-your-own-ganesha/3900030682677131"
     },
     {
       "name": "Resin Geode Art Date - Hyderabad",
@@ -323,13 +314,22 @@
       "source_url": "https://allevents.in/hyderabad/tanjore-painting-workshop/3900030631204628"
     },
     {
-      "name": "Resin Art Workshop",
+      "name": "Ganesh Ji Making Workshop at Broadway",
       "date": "2026-09-12",
       "city": "Hyderabad",
-      "venue": "Makobrew World Coffee Bar: Hyderabad",
+      "venue": "Broadway - New Age Department Store: Hyderabad",
       "cat": "education",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/resin-art-workshop/3900030622296832"
+      "source_url": "https://allevents.in/hyderabad/ganesh-ji-making-workshop-at-broadway/3900030671516546"
+    },
+    {
+      "name": "Glass Bottle Painting Workshop",
+      "date": "2026-09-12",
+      "city": "Hyderabad",
+      "venue": "Third Wave Coffee, Knowledge City: Hyderabad",
+      "cat": "education",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/glass-bottle-painting-workshop/3900030606702202"
     },
     {
       "name": "Harish Raghavendra in Chennai Corporation",
@@ -350,15 +350,6 @@
       "source_url": "https://allevents.in/chennai/harish-raghavendra-3-decades-the-mellisai-era/3900030418009556"
     },
     {
-      "name": "Sanity in Diversity ft. Vivek Muralidharan",
-      "date": "2026-09-12",
-      "city": "Chennai",
-      "venue": "Arena - The Art Experience: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/sanity-in-diversity-ft-vivek-muralidharan/3900030606633227"
-    },
-    {
       "name": "Book Klaydate Spot - Chennai",
       "date": "2026-09-12",
       "city": "Chennai",
@@ -366,24 +357,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/book-klaydate-spot-chennai/3900030663857927"
-    },
-    {
-      "name": "Clay Date - Chennai",
-      "date": "2026-09-12",
-      "city": "Chennai",
-      "venue": "Kreate By Kraft: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/clay-date-chennai/3900030666961710"
-    },
-    {
-      "name": "Chill with Chan - Indie storytelling&amp;Musical Jamm",
-      "date": "2026-09-12",
-      "city": "Chennai",
-      "venue": "Black Box at DBICA: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/chill-with-chan-indie-storytellingandmusical-jamm/3900030677868018"
     },
     {
       "name": "Moon Lamp Workshop - Chennai",
@@ -411,6 +384,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/ganesha-texture-art-chennai/3900030666947906"
+    },
+    {
+      "name": "Chill with Chan - Indie storytelling&amp;Musical Jamm",
+      "date": "2026-09-12",
+      "city": "Chennai",
+      "venue": "Black Box at DBICA: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chill-with-chan-indie-storytellingandmusical-jamm/3900030677868018"
+    },
+    {
+      "name": "Clay Date - Chennai",
+      "date": "2026-09-12",
+      "city": "Chennai",
+      "venue": "Kreate By Kraft: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/clay-date-chennai/3900030666961710"
     },
     {
       "name": "RAVE IN A JUNGLE(TAMIL &amp; MALAYALAM)",
@@ -476,13 +467,13 @@
       "source_url": "https://allevents.in/hyderabad/decorative-soap-making/3900030606609248"
     },
     {
-      "name": "Shamik Chakrabarti Live",
+      "name": "Clay Ganesha",
       "date": "2026-09-13",
       "city": "Chennai",
-      "venue": "Rasika Ranjani Sabha: Chennai",
+      "venue": "Third Wave Coffee, Besant Nagar: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/shamik-chakrabarti-live/3900030221174925"
+      "source_url": "https://allevents.in/chennai/clay-ganesha/3900030666489116"
     },
     {
       "name": "MINI CANVAS PAINTING",
@@ -512,15 +503,6 @@
       "source_url": "https://allevents.in/chennai/resin-lotus-pond-workshop/3900030670397132"
     },
     {
-      "name": "Clay Ganesha",
-      "date": "2026-09-13",
-      "city": "Chennai",
-      "venue": "Third Wave Coffee, Besant Nagar: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/clay-ganesha/3900030666489116"
-    },
-    {
       "name": "Ganesh Chaturthi's Event",
       "date": "2026-09-14",
       "city": "Mumbai",
@@ -546,6 +528,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/ganesh-chaturthi/200030665217048"
+    },
+    {
+      "name": "viral movie",
+      "date": "2026-09-14",
+      "city": "Chennai",
+      "venue": "Park Town, Tamil Nadu, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/viral-movie/200029326774345"
+    },
+    {
+      "name": "Mame Khan's Rock 'N' Roots Project",
+      "date": "2026-09-15",
+      "city": "Mumbai",
+      "venue": "Jamshed Bhabha Theatre: NCPA.",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/mame-khans-rock-n-roots-project/3900030665417555"
     },
     {
       "name": "Salsa, Bachata, Partner Dance Workshop",
@@ -611,6 +611,15 @@
       "source_url": "https://allevents.in/mumbai/carvaan-live-magic-of-rafi-at-nmacc/3900030614445117"
     },
     {
+      "name": "Design Democracy 2026",
+      "date": "2026-09-18",
+      "city": "Hyderabad",
+      "venue": "HITEX Exhibition Center: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/design-democracy-2026/3900030317042345"
+    },
+    {
       "name": "Jewellery World Exhibition Hyderabad (Free Registration)",
       "date": "2026-09-18",
       "city": "Hyderabad",
@@ -638,13 +647,22 @@
       "source_url": "https://allevents.in/hyderabad/jewellery-world-exhibitions-hyderabad-sept-2026/100001985131925026"
     },
     {
-      "name": "Design Democracy 2026",
+      "name": "Sunny Side Up! Show 1 \u2013 Debutants",
       "date": "2026-09-18",
-      "city": "Hyderabad",
-      "venue": "HITEX Exhibition Center: Hyderabad",
+      "city": "Chennai",
+      "venue": "Museum Theatre",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/design-democracy-2026/3900030317042345"
+      "source_url": "https://allevents.in/chennai/sunny-side-up-show-1-debutants-tickets/80002304603863"
+    },
+    {
+      "name": "Sunny Side Up! Show 2 \u2013 Full Pass",
+      "date": "2026-09-18",
+      "city": "Chennai",
+      "venue": "Museum Theatre",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/sunny-side-up-show-2-full-pass-tickets/80003720190556"
     },
     {
       "name": "Tribute to Legends of Rock ft. Project 37",
@@ -654,6 +672,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/tribute-to-legends-of-rock-ft-project-37/3900030635382153"
+    },
+    {
+      "name": "Jazztober Fest 2026",
+      "date": "2026-09-18",
+      "city": "Chennai",
+      "venue": "365 A.S: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/jazztober-fest-2026/3900030680970654"
     },
     {
       "name": "Sunil Grover Live in Mumbai",
@@ -674,6 +701,15 @@
       "source_url": "https://allevents.in/mumbai/the-weeknd-night-mumbai/3900029935797932"
     },
     {
+      "name": "Kalyaan Ke Prakaar by Padmashri Madhup Mudgal",
+      "date": "2026-09-19",
+      "city": "Mumbai",
+      "venue": "The Cube, NMACC",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/kalyaan-ke-prakaar-by-padmashri-madhup-mudgal/3900030663581536"
+    },
+    {
       "name": "Power House Anniversary",
       "date": "2026-09-19",
       "city": "Navi Mumbai",
@@ -681,15 +717,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/navi-mumbai/power-house-anniversary/4100030552154253"
-    },
-    {
-      "name": "Pottery with Kids",
-      "date": "2026-09-19",
-      "city": "Mumbai",
-      "venue": "Penthouzz: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/pottery-with-kids/3900030674912414"
     },
     {
       "name": "Federal Bank Bharat Surotsav",
@@ -710,15 +737,6 @@
       "source_url": "https://allevents.in/hyderabad/daniel-fernandes-do-you-know-who-i-am/3900030623740459"
     },
     {
-      "name": "GoSwadeshi by GoCoop, Hyderabad, Kalinga Cultural Hall",
-      "date": "2026-09-19",
-      "city": "Hyderabad",
-      "venue": "Kalinga Cultural Trust",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/goswadeshi-by-gocoop-hyderabad-kalinga-cultural-hall/200030675578606"
-    },
-    {
       "name": "A Night for Arijit singh ft. Root Three Five",
       "date": "2026-09-19",
       "city": "Hyderabad",
@@ -735,6 +753,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/micless-with-merakee/3900030676053309"
+    },
+    {
+      "name": "GoSwadeshi by GoCoop, Hyderabad, Kalinga Cultural Hall",
+      "date": "2026-09-19",
+      "city": "Hyderabad",
+      "venue": "Kalinga Cultural Trust",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/goswadeshi-by-gocoop-hyderabad-kalinga-cultural-hall/200030675578606"
     },
     {
       "name": "Jammers",
@@ -755,15 +782,6 @@
       "source_url": "https://allevents.in/chennai/yuvans-walking-through-the-rainbow-a-symphonic-experience/4100030545955103"
     },
     {
-      "name": "SIRI BHOOM BAH!!!, Edition 3",
-      "date": "2026-09-19",
-      "city": "Chennai",
-      "venue": "Studio MuziCroft: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/siri-bhoom-bah-edition-3/3900030540482443"
-    },
-    {
       "name": "Jorge Figueroa Live at Kat &amp; Kin Coffee",
       "date": "2026-09-19",
       "city": "Chennai",
@@ -771,6 +789,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/jorge-figueroa-live-at-kat-and-kin-coffee/3900030666509208"
+    },
+    {
+      "name": "SIRI BHOOM BAH!!!, Edition 3",
+      "date": "2026-09-19",
+      "city": "Chennai",
+      "venue": "Studio MuziCroft: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/siri-bhoom-bah-edition-3/3900030540482443"
     },
     {
       "name": "The Great Indian Brew Festival (GIBF) - Oktoberfest Edition",
@@ -791,6 +818,15 @@
       "source_url": "https://allevents.in/navi-mumbai/hylo-presents-guy-j/4100030518835423"
     },
     {
+      "name": "Stand-up Virgin ft. Kubbra Sait &amp; Devanshi Shah",
+      "date": "2026-09-20",
+      "city": "Mumbai",
+      "venue": "Khar Comedy Club: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/stand-up-virgin-ft-kubbra-sait-and-devanshi-shah/3900030621039354"
+    },
+    {
       "name": "Paradox presents Amber Broos",
       "date": "2026-09-20",
       "city": "Mumbai",
@@ -798,15 +834,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/paradox-presents-amber-broos/3900030675598625"
-    },
-    {
-      "name": "Corporate Majdoor By Anmol Garg",
-      "date": "2026-09-20",
-      "city": "Hyderabad",
-      "venue": "The Comedy Theatre: Hyderabad.",
-      "cat": "corporate",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/corporate-majdoor-by-anmol-garg/3900030409779736"
     },
     {
       "name": "RUHBARU - Orchestral Qawwali Project",
@@ -827,6 +854,15 @@
       "source_url": "https://allevents.in/hyderabad/godawan-durbar-evenings-orchestral-qawwali-project/4100030524666421"
     },
     {
+      "name": "Corporate Majdoor By Anmol Garg",
+      "date": "2026-09-20",
+      "city": "Hyderabad",
+      "venue": "The Comedy Theatre: Hyderabad.",
+      "cat": "corporate",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/corporate-majdoor-by-anmol-garg/3900030409779736"
+    },
+    {
       "name": "Endrendrum Ninaivil SPB",
       "date": "2026-09-20",
       "city": "Chennai",
@@ -834,15 +870,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/endrendrum-ninaivil-spb/3900030605579232"
-    },
-    {
-      "name": "KIDS &amp; MOM 1KM WALKATHON - 3LAP",
-      "date": "2026-09-20",
-      "city": "Chennai",
-      "venue": "Decathlon Sports - Kilambakkam",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/kids-and-mom-1km-walkathon-3lap-tickets/80007402548854"
     },
     {
       "name": "Geetha Ranjani (Hits of SPB and Janaki)",
@@ -854,6 +881,15 @@
       "source_url": "https://allevents.in/chennai/geetha-ranjani-hits-of-spb-and-janaki/3900030666777128"
     },
     {
+      "name": "KIDS &amp; MOM 1KM WALKATHON - 3LAP",
+      "date": "2026-09-20",
+      "city": "Chennai",
+      "venue": "Decathlon Sports - Kilambakkam",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/kids-and-mom-1km-walkathon-3lap-tickets/80007402548854"
+    },
+    {
       "name": "EMI",
       "date": "2026-09-20",
       "city": "Chennai",
@@ -863,15 +899,6 @@
       "source_url": "https://allevents.in/chennai/emi/3900030666250200"
     },
     {
-      "name": "Run For Hope Chennai 2026",
-      "date": "2026-09-20",
-      "city": "Chennai",
-      "venue": "Besant Nagar Beach, Elliot's Promenade, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/run-for-hope-chennai-2026/200030683227907"
-    },
-    {
       "name": "ART meets TEA: Second Nature",
       "date": "2026-09-23",
       "city": "Mumbai",
@@ -879,6 +906,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/art-meets-tea-second-nature/3900030475782946"
+    },
+    {
+      "name": "Design Unfiltered",
+      "date": "2026-09-23",
+      "city": "Mumbai",
+      "venue": "Evolve Artisanal, Mumbai, India, Markandeshwar Nagar, Shiv Sagar Estate, Worli, Mumbai, Maharashtra, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/design-unfiltered-tickets/80003273967557"
     },
     {
       "name": "RACEx360 Emerging Technology Conference 2026",
@@ -935,6 +971,15 @@
       "source_url": "https://allevents.in/chennai/gem-and-jewellery-india-international-fair-gjiif-2026/200030522072906"
     },
     {
+      "name": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
+      "date": "2026-09-26",
+      "city": "Mumbai",
+      "venue": "The Fine Arts Society: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030215242123"
+    },
+    {
       "name": "Ishqnaama - Love Across Generations",
       "date": "2026-09-26",
       "city": "Mumbai",
@@ -944,13 +989,13 @@
       "source_url": "https://allevents.in/mumbai/ishqnaama-love-across-generations/3900030538954842"
     },
     {
-      "name": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
+      "name": "BHARATNEXT - MSME MEGA MEET MMM)",
       "date": "2026-09-26",
       "city": "Mumbai",
-      "venue": "The Fine Arts Society: Mumbai",
+      "venue": "Ginger Mumbai Airport",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030215242123"
+      "source_url": "https://allevents.in/mumbai/bharatnext-msme-mega-meet-mmm-tickets/80003327607757"
     },
     {
       "name": "Pach Bote Amrutachi",
@@ -989,13 +1034,13 @@
       "source_url": "https://allevents.in/mumbai/the-gujarati-project-aapna-geeto-aapni-vaato/3900030564340411"
     },
     {
-      "name": "International Clown Festival - Mumbai",
+      "name": "Silly Papa By Angad Singh Ranyal",
       "date": "2026-09-26",
       "city": "Mumbai",
-      "venue": "CIDCO Exhibition Centre Auditorium: Vashi",
-      "cat": "festival",
+      "venue": "Backspace: Lower Parel, Mumbai",
+      "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/international-clown-festival-mumbai/3900030482268809"
+      "source_url": "https://allevents.in/mumbai/silly-papa-by-angad-singh-ranyal/3900030385943842"
     },
     {
       "name": "Love By Manforce",
@@ -1052,15 +1097,6 @@
       "source_url": "https://allevents.in/chennai/mics-music-marathon-4-shows-11-legendschennai/3900030456381929"
     },
     {
-      "name": "SIRI GAMA PADHA NEE, 3.0",
-      "date": "2026-09-26",
-      "city": "Chennai",
-      "venue": "Punch - Unpaid Therapist: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/siri-gama-padha-nee-30/3900030586434504"
-    },
-    {
       "name": "ANIRUDH - THE SING ALONG NIGHT",
       "date": "2026-09-26",
       "city": "Chennai",
@@ -1068,6 +1104,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/anirudh-the-sing-along-night/3900030622369526"
+    },
+    {
+      "name": "SIRI GAMA PADHA NEE, 3.0",
+      "date": "2026-09-26",
+      "city": "Chennai",
+      "venue": "Punch - Unpaid Therapist: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/siri-gama-padha-nee-30/3900030586434504"
     },
     {
       "name": "The beatles tribute",
@@ -1106,6 +1151,15 @@
       "source_url": "https://allevents.in/mumbai/the-diary-of-legendary-divas-priyanka-barve/3900030502290347"
     },
     {
+      "name": "The Founders X Investors Pitch | 27th Sept | Mumbai",
+      "date": "2026-09-27",
+      "city": "Mumbai",
+      "venue": "NMIMS Deemed-to-be-University",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/the-founders-x-investors-pitch-27th-sept-mumbai-tickets/80003523154464"
+    },
+    {
       "name": "KADAKNATH",
       "date": "2026-09-27",
       "city": "Mumbai",
@@ -1122,15 +1176,6 @@
       "cat": "comedy",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/onnu-sollanum-a-tamil-stand-up-comedy-show/3900030666209651"
-    },
-    {
-      "name": "NAMMA RUN CHENNAI - 2026",
-      "date": "2026-09-27",
-      "city": "Chennai",
-      "venue": "Besant Nagar Beach: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/namma-run-chennai-2026/3900030138985255"
     },
     {
       "name": "Bhakti Raas Navratri at Leela Palace Chennai",
@@ -1185,15 +1230,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/gjs-india-gem-and-jewellery-show-2026/200030535838846"
-    },
-    {
-      "name": "Robothon (Mumbai's First-Ever Gaming Championship)",
-      "date": "2026-10-02",
-      "city": "Mumbai",
-      "venue": "OMOTEC, Andheri West: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/robothon-mumbais-first-ever-gaming-championship/3900030647095157"
     },
     {
       "name": "Bhajan Mahotsav",
@@ -1277,15 +1313,6 @@
       "source_url": "https://allevents.in/bangalore/seedhe-maut-live-at-sunburn-union/3900030677112526"
     },
     {
-      "name": "Allow Me!: A Standup Comedy Show by Rahul Dua",
-      "date": "2026-10-04",
-      "city": "Mumbai",
-      "venue": "Y.B. Chavan Auditorium: Mumbai",
-      "cat": "comedy",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/allow-me-a-standup-comedy-show-by-rahul-dua/3900030387701101"
-    },
-    {
       "name": "Lets Talk About It! CHENNAI",
       "date": "2026-10-04",
       "city": "Chennai",
@@ -1322,6 +1349,15 @@
       "source_url": "https://allevents.in/bangalore/bangalore-open-air-2026/3900030036214659"
     },
     {
+      "name": "Seed Business School Festival 2026 - Mumbai",
+      "date": "2026-10-10",
+      "city": "Mumbai",
+      "venue": "The St. Regis Mumbai",
+      "cat": "festival",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/seed-business-school-festival-2026-mumbai/100001998872211593"
+    },
+    {
       "name": "Radhatri Nethralaya presents Nethra 26- AGAM Live",
       "date": "2026-10-10",
       "city": "Chennai",
@@ -1329,15 +1365,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/radhatri-nethralaya-presents-nethra-26-agam-live/3900030677977427"
-    },
-    {
-      "name": "Global Hospitality Education Expo 2026 - Mumbai",
-      "date": "2026-10-11",
-      "city": "Mumbai",
-      "venue": "The St. Regis Mumbai",
-      "cat": "education",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/global-hospitality-education-expo-2026-mumbai/100001998531296908"
     },
     {
       "name": "Dandiya Nights 2026 - Hyderabad",
@@ -1358,15 +1385,6 @@
       "source_url": "https://allevents.in/chennai/chennai-kids-walkathon-tickets/80003689274312"
     },
     {
-      "name": "State Level Inter School Athletic Championship 2026",
-      "date": "2026-10-11",
-      "city": "Chennai",
-      "venue": "SDAT Nehru Park",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/state-level-inter-school-athletic-championship-2026-tickets/80002726944190"
-    },
-    {
       "name": "Seed Business School Festival 2026 - Hyderabad",
       "date": "2026-10-15",
       "city": "Hyderabad",
@@ -1385,31 +1403,13 @@
       "source_url": "https://allevents.in/chennai/dandiya-raas-2026/4100030665910132"
     },
     {
-      "name": "AutoTechnicia 2026",
-      "date": "2026-10-22",
-      "city": "Mumbai",
-      "venue": "Bombay Exhibition Centre,  Mumbai, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/autotechnicia-2026/200029857088740"
-    },
-    {
-      "name": "Quick Style India Tour - Mumbai",
+      "name": "Telling Lies -A Standup Solo by Aashish Solanki",
       "date": "2026-10-24",
       "city": "Mumbai",
-      "venue": "Venue To Be Announced: Mumbai",
+      "venue": "Sophia Bhabha Auditorium: Mumbai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/quick-style-india-tour-mumbai/3900030022274233"
-    },
-    {
-      "name": "JEWELLERY WORLD EXHIBITION Mumbai (Free Entry)",
-      "date": "2026-10-24",
-      "city": "Mumbai",
-      "venue": "JW Marriott Mumbai Juhu",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/jewellery-world-exhibition-mumbai-free-entry-tickets/80003584399340"
+      "source_url": "https://allevents.in/mumbai/telling-lies-a-standup-solo-by-aashish-solanki/3900030598974526"
     },
     {
       "name": "OG TOUR INDIA WITH THAMAN - LIVE IN HYDERABAD",
@@ -1421,22 +1421,22 @@
       "source_url": "https://allevents.in/hyderabad/og-tour-india-with-thaman-live-in-hyderabad/3900030309338416"
     },
     {
-      "name": "RUN FOR OUR NATIONAL HEROES 2026",
-      "date": "2026-12-13",
+      "name": "Route 143 - Anuv Jain",
+      "date": "2026-10-31",
       "city": "Chennai",
-      "venue": "Olcott Memorial Higher Secondary School",
+      "venue": "EVP Film City: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/run-for-our-national-heroes-2026-tickets/80005833106900"
+      "source_url": "https://allevents.in/chennai/route-143-anuv-jain/3900030613942254"
     },
     {
-      "name": "PAINTECH 2027",
-      "date": "2027-05-14",
+      "name": "QS Discover Master's Fair in Chennai",
+      "date": "2026-12-10",
       "city": "Chennai",
-      "venue": "Chennai",
+      "venue": "Hyatt Regency Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/paintech-2027-tickets/80003347746003"
+      "source_url": "https://allevents.in/chennai/qs-discover-masters-fair-in-chennai/100001998745530687"
     }
   ]
 }
