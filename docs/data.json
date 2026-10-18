@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T04:00:12.979222Z",
+  "generated_at": "2026-10-18T10:45:47.943864Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-10-18T03:59:39.701613Z",
-      "event_count": 184,
+      "last_success": "2026-10-18T10:45:15.765978Z",
+      "event_count": 188,
       "status": "ok"
     },
     "bookmyshow.com": {
@@ -206,6 +206,15 @@
       "source_url": "https://allevents.in/hyderabad/silk-painting-workshop/3900030847320053"
     },
     {
+      "name": "HIMYM TRIVIA",
+      "date": "2026-10-18",
+      "city": "Chennai",
+      "venue": "Rhapsody - Courtyard by Marriott: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/himym-trivia/3900030735484911"
+    },
+    {
       "name": "Sridhar Navarox",
       "date": "2026-10-18",
       "city": "Chennai",
@@ -222,15 +231,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/meet-the-royal-college-of-art-in-chennai/100002000242753922"
-    },
-    {
-      "name": "HIMYM TRIVIA",
-      "date": "2026-10-18",
-      "city": "Chennai",
-      "venue": "Rhapsody - Courtyard by Marriott: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/himym-trivia/3900030735484911"
     },
     {
       "name": "Chennai Speakers Hive Meetup",
@@ -251,6 +251,15 @@
       "source_url": "https://allevents.in/chennai/hindi-thoda-maalum-hinglish-comedy-open-mic/3900030835423945"
     },
     {
+      "name": "Almost Human - Mirablis",
+      "date": "2026-10-18",
+      "city": "Chennai",
+      "venue": "Mirabilis Lounge - Bar &amp; Kitchen | Akkarai, Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/almost-human-mirablis/4100030789553110"
+    },
+    {
       "name": "Dandiya Maha Utsav - Palace Grounds",
       "date": "2026-10-20",
       "city": "Bangalore",
@@ -267,15 +276,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/ecca-dandiya-night-26-electronic-city/4100030742282513"
-    },
-    {
-      "name": "Vidyarambham - Vijayadasami Celebration 2026",
-      "date": "2026-10-20",
-      "city": "Chennai",
-      "venue": "Nakshatra Research Foundation: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/vidyarambham-vijayadasami-celebration-2026/3900030560855828"
     },
     {
       "name": "Duos ft. Prashasti Singh &amp; Anirban Dasgupta: KCC",
@@ -494,6 +494,15 @@
       "source_url": "https://allevents.in/mumbai/epitome-presents-al-rafaelo-live/3900030764266313"
     },
     {
+      "name": "Halloween Party",
+      "date": "2026-10-24",
+      "city": "Hyderabad",
+      "venue": "Candy Castle - kids play cafe",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/halloween-party/4100030780533042"
+    },
+    {
       "name": "PinkFloyd &amp; Linkin Park Tribute ft. String on Fire",
       "date": "2026-10-24",
       "city": "Hyderabad",
@@ -548,15 +557,6 @@
       "source_url": "https://allevents.in/hyderabad/khane-ka-bazaar-season-3/100002001968908898"
     },
     {
-      "name": "Halloween Party",
-      "date": "2026-10-24",
-      "city": "Hyderabad",
-      "venue": "Candy Castle - kids play cafe",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/halloween-party/4100030780533042"
-    },
-    {
       "name": "BLUNT ft. Onkar",
       "date": "2026-10-24",
       "city": "Hyderabad",
@@ -564,24 +564,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/blunt-ft-onkar/3900030311812413"
-    },
-    {
-      "name": "Candlelight: Tribute to S.P. Balasubramanium | Chennai",
-      "date": "2026-10-24",
-      "city": "Chennai",
-      "venue": "Museum Theatre, Museum Compound, Pantheon Road, Egmore, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/candlelight-tribute-to-sp-balasubramanium-chennai/200030427961547"
-    },
-    {
-      "name": "VOICE OF CHENNAI",
-      "date": "2026-10-24",
-      "city": "Chennai",
-      "venue": "Gangsters Vibe Rehearsal Studios and Creators",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/voice-of-chennai/3900030742973556"
     },
     {
       "name": "State level kids &amp; junior athletic championship 2026",
@@ -593,13 +575,13 @@
       "source_url": "https://allevents.in/chennai/state-level-kids-and-junior-athletic-championship-2026-tickets/80003647927472"
     },
     {
-      "name": "Mecha Mavericks - Youth Robotics Championship",
+      "name": "Candlelight: Tribute to S.P. Balasubramanium | Chennai",
       "date": "2026-10-24",
       "city": "Chennai",
-      "venue": "BVM Global Bollineni Hillside-Best CBSE Schools in Chennai-Top 10 CBSE Schools in shollinganallur-Best CBSE Schools in OMR",
+      "venue": "Museum Theatre, Museum Compound, Pantheon Road, Egmore, Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
+      "source_url": "https://allevents.in/chennai/candlelight-tribute-to-sp-balasubramanium-chennai/200030427961547"
     },
     {
       "name": "Max Urbn Unmute Chennai x Spotify RAP 91",
@@ -609,6 +591,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/max-urbn-unmute-chennai-x-spotify-rap-91/3900030685598649"
+    },
+    {
+      "name": "VOICE OF CHENNAI",
+      "date": "2026-10-24",
+      "city": "Chennai",
+      "venue": "Gangsters Vibe Rehearsal Studios and Creators",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/voice-of-chennai/3900030742973556"
+    },
+    {
+      "name": "Mecha Mavericks - Youth Robotics Championship",
+      "date": "2026-10-24",
+      "city": "Chennai",
+      "venue": "BVM Global Bollineni Hillside-Best CBSE Schools in Chennai-Top 10 CBSE Schools in shollinganallur-Best CBSE Schools in OMR",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/mecha-mavericks-youth-robotics-championship/80003234633943"
     },
     {
       "name": "Coloring Competition by Craft Workshops Chennai",
@@ -827,15 +827,6 @@
       "source_url": "https://allevents.in/mumbai/23rd-global-investment-immigration-summit-and-international-real-estate-expo/100001992818595063"
     },
     {
-      "name": "Telling Lies -A Standup Solo by Aashish Solanki",
-      "date": "2026-10-31",
-      "city": "Hyderabad",
-      "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/telling-lies-a-standup-solo-by-aashish-solanki/3900030598974832"
-    },
-    {
       "name": "Halloween Special Ft. Root Three Five",
       "date": "2026-10-31",
       "city": "Hyderabad",
@@ -843,6 +834,33 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/halloween-special-ft-root-three-five/3900030756970832"
+    },
+    {
+      "name": "WISH Spooktacular",
+      "date": "2026-10-31",
+      "city": "Hyderabad",
+      "venue": "Wish Banjara Hills-Preschool &amp; Daycare: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/wish-spooktacular/3900030599671217"
+    },
+    {
+      "name": "Halloween Party for Kids - Wicked Wonderland",
+      "date": "2026-10-31",
+      "city": "Hyderabad",
+      "venue": "Lake Shore Mall: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/halloween-party-for-kids-wicked-wonderland/3900030828897624"
+    },
+    {
+      "name": "Telling Lies -A Standup Solo by Aashish Solanki",
+      "date": "2026-10-31",
+      "city": "Hyderabad",
+      "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/telling-lies-a-standup-solo-by-aashish-solanki/3900030598974832"
     },
     {
       "name": "Lakhwinder Wadali India Tour - Hyderabad",
@@ -861,15 +879,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/the-iron-maiden-experience-ft-maiden-voyage/3900030762805613"
-    },
-    {
-      "name": "WISH Spooktacular",
-      "date": "2026-10-31",
-      "city": "Hyderabad",
-      "venue": "Wish Banjara Hills-Preschool &amp; Daycare: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/wish-spooktacular/3900030599671217"
     },
     {
       "name": "Mic of the Dead",
@@ -980,6 +989,15 @@
       "source_url": "https://allevents.in/hyderabad/retro-to-metro-tamil-jamming-hyderabad/3900030754345018"
     },
     {
+      "name": "State Level Handwriting Competition",
+      "date": "2026-11-01",
+      "city": "Chennai",
+      "venue": "Decathlon Store ,Nolambur",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/state-level-handwriting-competition-tickets/80003773676817"
+    },
+    {
       "name": "State Level Inter-School Yoga Championship",
       "date": "2026-11-01",
       "city": "Chennai",
@@ -996,15 +1014,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/chennai-kids-drawing-competition-tickets/80002046887954"
-    },
-    {
-      "name": "State Level Handwriting Competition",
-      "date": "2026-11-01",
-      "city": "Chennai",
-      "venue": "Decathlon Store ,Nolambur",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/state-level-handwriting-competition-tickets/80003773676817"
     },
     {
       "name": "Kerala Piravi : Malayalam Jamming",
@@ -1133,6 +1142,15 @@
       "source_url": "https://allevents.in/chennai/15th-international-symposium-of-ndt-in-aerospace-and-36th-annual-ndt-conference-by-isnt/200030341557631"
     },
     {
+      "name": "CHILDRENS DAY CHESS TOURNAMENT",
+      "date": "2026-11-14",
+      "city": "Chennai",
+      "venue": "ORCHIDS INTERNATIONAL SCHOOL, MANAPAKAM, CHENNAI",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/childrens-day-chess-tournament-tickets/80002838686998"
+    },
+    {
       "name": "Dance in Devotion with Soulful Bhajans - Mumbai",
       "date": "2026-11-15",
       "city": "Mumbai",
@@ -1176,15 +1194,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/vedanta-chithiram-drawing-competition-tickets/80003589459148"
-    },
-    {
-      "name": "VEDANTA CHITHIRAM DRAWING COMPETITIONS",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "Vedanta Academy CBSE School Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/vedanta-chithiram-drawing-competitions-tickets/80003699679589"
     },
     {
       "name": "ANYMA presents AEDEN - Mumbai",
