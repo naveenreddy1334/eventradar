@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-22T04:11:42.917972Z",
+  "generated_at": "2026-10-22T11:32:20.644722Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-10-22T04:11:10.594561Z",
+      "last_success": "2026-10-22T11:31:48.812581Z",
       "event_count": 175,
       "status": "ok"
     },
@@ -53,15 +53,6 @@
       "source_url": "https://allevents.in/hyderabad/small-world-kids-art-party/3900030872745846"
     },
     {
-      "name": "CAGE ROOM X BOILER ROOM",
-      "date": "2026-10-23",
-      "city": "Bangalore",
-      "venue": "BudBee Restobar 104: Bengaluru",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/cage-room-x-boiler-room/3900030764098247"
-    },
-    {
       "name": "Tamil Dj Night",
       "date": "2026-10-23",
       "city": "Bangalore",
@@ -105,6 +96,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/rock-bottom-a-standup-solo-by-shubham-pujari/3900030565014814"
+    },
+    {
+      "name": "DIY Moroccan Lamp",
+      "date": "2026-10-23",
+      "city": "Hyderabad",
+      "venue": "IndEee: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/diy-moroccan-lamp/3900030855840629"
     },
     {
       "name": "Indian Artisan Bazaar \u2013 Arts, Crafts, Handlooms &amp; Lifestyle Exhibition",
@@ -404,15 +404,6 @@
       "source_url": "https://allevents.in/hyderabad/art-workshops-monthly-pass/3900030782454500"
     },
     {
-      "name": "Beach Resin Art Workshop",
-      "date": "2026-10-24",
-      "city": "Hyderabad",
-      "venue": "Makobrew World Coffee Bar: Hyderabad",
-      "cat": "education",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/beach-resin-art-workshop/3900030785029614"
-    },
-    {
       "name": "Max Urbn Unmute Chennai x Spotify RAP 91",
       "date": "2026-10-24",
       "city": "Chennai",
@@ -512,13 +503,40 @@
       "source_url": "https://allevents.in/chennai/pour-decisions/3900030860844438"
     },
     {
-      "name": "Vanga Palaglam \u2013 Stranger Fun, Games &amp; Connect Meetup in Chennai | Local Chapter Hub",
+      "name": "Sip and Sculpt",
       "date": "2026-10-24",
       "city": "Chennai",
-      "venue": "Besant Nagar Beach",
+      "venue": "Third Wave Coffee, Ashok Nagar: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/vanga-palaglam-stranger-fun-games-and-connect-meetup-in-chennai-local-chapter-hub-tickets/80001052973733"
+      "source_url": "https://allevents.in/chennai/sip-and-sculpt/3900030852698718"
+    },
+    {
+      "name": "Mirror OF Truth",
+      "date": "2026-10-24",
+      "city": "Chennai",
+      "venue": "Third Wave Coffee, Kilpauk: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/mirror-of-truth/3900030782596044"
+    },
+    {
+      "name": "Boho Mandala Tote Painting",
+      "date": "2026-10-24",
+      "city": "Chennai",
+      "venue": "Third Wave Coffee, Kilpauk: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/boho-mandala-tote-painting/3900030867315410"
+    },
+    {
+      "name": "Palette Knife Art Workshop",
+      "date": "2026-10-24",
+      "city": "Chennai",
+      "venue": "Third Wave Coffee, Ashok Nagar: Chennai",
+      "cat": "education",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/palette-knife-art-workshop/3900030855630752"
     },
     {
       "name": "Human Library Bengaluru",
@@ -602,6 +620,15 @@
       "source_url": "https://allevents.in/chennai/michaeloween-a-halloween-themed-mj-tribute/3900030703371611"
     },
     {
+      "name": "UNO Battle \u2013 Chennai | Fun UNO Game &amp; Stranger Meetup",
+      "date": "2026-10-25",
+      "city": "Chennai",
+      "venue": "Anna Nagar",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/uno-battle-chennai-fun-uno-game-and-stranger-meetup-tickets/80002295741387"
+    },
+    {
       "name": "Retro to Metro - Tamil Jamming Chennai",
       "date": "2026-10-25",
       "city": "Chennai",
@@ -618,24 +645,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/the-magic-of-mano/3900030763884227"
-    },
-    {
-      "name": "UNO Battle \u2013 Chennai | Fun UNO Game &amp; Stranger Meetup",
-      "date": "2026-10-25",
-      "city": "Chennai",
-      "venue": "Anna Nagar",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/uno-battle-chennai-fun-uno-game-and-stranger-meetup-tickets/80002295741387"
-    },
-    {
-      "name": "Chennai Speakers Hive Meetup",
-      "date": "2026-10-25",
-      "city": "Chennai",
-      "venue": "Hari Om Vidyalaya School, 5th Section, 22nd Street, KK Nagar, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/chennai-speakers-hive-meetup/200030744029732"
     },
     {
       "name": "Wednesday 28th October - Latin Twist Halloween at antiSOCIAL \u2013 Salsa, Bachata &amp; Kizomba \ud83c\udf83",
@@ -771,6 +780,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/somad-halloween-carnival-2026/4100029411768331"
+    },
+    {
+      "name": "Halloween Party with Dj Rohit At Pixi",
+      "date": "2026-10-31",
+      "city": "Bangalore",
+      "venue": "Pixi",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/halloween-party-with-dj-rohit-at-pixi-tickets/80005563962600"
     },
     {
       "name": "Halloween party",
@@ -998,15 +1016,6 @@
       "source_url": "https://allevents.in/chennai/little-champ-kids-walkathon-2026-by-kalam-sports-academy-tickets/80003820843813"
     },
     {
-      "name": "Madras Driven - Cars &amp; Cocoa: Underground 2",
-      "date": "2026-11-01",
-      "city": "Chennai",
-      "venue": "THE MARINA MALL",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/madras-driven-cars-and-cocoa-underground-2/4100030822663906"
-    },
-    {
       "name": "Maritime India Conference &amp; Expo 2026",
       "date": "2026-11-02",
       "city": "Mumbai",
@@ -1196,6 +1205,15 @@
       "source_url": "https://allevents.in/chennai/15th-international-symposium-of-ndt-in-aerospace-and-36th-annual-ndt-conference-by-isnt/200030341557631"
     },
     {
+      "name": "Global Startup Summit 2026 | Chennai",
+      "date": "2026-11-14",
+      "city": "Chennai",
+      "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/global-startup-summit-2026-chennai-tickets/80002267326827"
+    },
+    {
       "name": "TechAI India Summit \u2013 Chennai 2026",
       "date": "2026-11-14",
       "city": "Chennai",
@@ -1203,15 +1221,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/techai-india-summit-chennai-2026-tickets/80001617844041"
-    },
-    {
-      "name": "International D2C Conclave'26 | Chennai",
-      "date": "2026-11-14",
-      "city": "Chennai",
-      "venue": "Holiday Inn Chennai Omr It Expressway by IHG",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/international-d2c-conclave26-chennai-tickets/80001545816101"
     },
     {
       "name": "Dance in Devotion with Soulful Bhajans - Mumbai",
@@ -1482,15 +1491,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/intimasia-worlds-second-largest-trade-show-co-loacted-with-sourcenxt/100001992038681320"
-    },
-    {
-      "name": "Make Friends &amp; Photowalk Meetup",
-      "date": "2026-12-26",
-      "city": "Chennai",
-      "venue": "Chennai (currently online during our photo challenges)",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/make-friends-and-photowalk-meetup/200030045087655"
     },
     {
       "name": "Music Journey",
