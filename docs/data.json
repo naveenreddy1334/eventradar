@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T04:32:16.802783Z",
+  "generated_at": "2026-10-27T11:55:19.582167Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-10-27T04:31:44.463333Z",
-      "event_count": 169,
+      "last_success": "2026-10-27T11:54:48.191553Z",
+      "event_count": 170,
       "status": "ok"
     },
     "bookmyshow.com": {
@@ -71,6 +71,15 @@
       "source_url": "https://allevents.in/mumbai/death-and-the-maiden/200030338198535"
     },
     {
+      "name": "Pumpkin Carving Workshop",
+      "date": "2026-10-28",
+      "city": "Hyderabad",
+      "venue": "Grano: Coffee Affairs, Hyderabad",
+      "cat": "education",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/pumpkin-carving-workshop/3900030921412007"
+    },
+    {
       "name": "Jammers Quiet Set - October Edition II",
       "date": "2026-10-28",
       "city": "Hyderabad",
@@ -78,6 +87,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/jammers-quiet-set-october-edition-ii/4100030755974244"
+    },
+    {
+      "name": "Remembering Jacques Tati | PLAYTIME | Film Screening",
+      "date": "2026-10-28",
+      "city": "Hyderabad",
+      "venue": "Lamakaan - An Open Cultural Space",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/remembering-jacques-tati-playtime-film-screening/200030856430159"
     },
     {
       "name": "Comedy Sabha by @tanglishcomedy",
@@ -134,15 +152,6 @@
       "source_url": "https://allevents.in/mumbai/ghutne-20-ft-shashwat-maheshwari-kcc/3900030713376304"
     },
     {
-      "name": "The History-Sheeter by Dr. Kafeel Khan | Book Discussion |",
-      "date": "2026-10-30",
-      "city": "Hyderabad",
-      "venue": "Lamakaan - An Open Cultural Space",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/the-history-sheeter-by-dr-kafeel-khan-book-discussion/200030916326520"
-    },
-    {
       "name": "Halloween by The Beach",
       "date": "2026-10-30",
       "city": "Chennai",
@@ -173,10 +182,10 @@
       "name": "Quick Style India Tour - Bangalore",
       "date": "2026-10-31",
       "city": "Bangalore",
-      "venue": "Courtyard, Phoenix Market City: Bengaluru",
+      "venue": "Venue To Be Announced: Bengaluru",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030236322443"
+      "source_url": "https://allevents.in/bangalore/quick-style-india-tour-bangalore/3900030022936242"
     },
     {
       "name": "SoMAD Halloween Carnival 2026",
@@ -186,6 +195,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/somad-halloween-carnival-2026/4100029411768331"
+    },
+    {
+      "name": "Bangalore Business Literature Festival 2026",
+      "date": "2026-10-31",
+      "city": "Bangalore",
+      "venue": "The Koramangala Club",
+      "cat": "festival",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/bangalore-business-literature-festival-2026-tickets/80002447954372"
     },
     {
       "name": "Blindfold Art Date - Bangalore",
@@ -305,15 +323,6 @@
       "source_url": "https://allevents.in/hyderabad/the-iron-maiden-experience-ft-maiden-voyage/3900030762805613"
     },
     {
-      "name": "Telling Lies -A Standup Solo by Aashish Solanki",
-      "date": "2026-10-31",
-      "city": "Hyderabad",
-      "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/telling-lies-a-standup-solo-by-aashish-solanki/3900030598974832"
-    },
-    {
       "name": "Halloween Night ft REBLE",
       "date": "2026-10-31",
       "city": "Hyderabad",
@@ -332,13 +341,13 @@
       "source_url": "https://allevents.in/hyderabad/rajasekhar-mamidanna-live/3900030886023928"
     },
     {
-      "name": "Diwali Diya Decoration",
+      "name": "Telling Lies -A Standup Solo by Aashish Solanki",
       "date": "2026-10-31",
       "city": "Hyderabad",
-      "venue": "Always Sunday Cafe and Bistro: Hyderabad",
+      "venue": "KLN Prasad Auditorium - FTCCI: Hyderabad",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/diwali-diya-decoration/3900030884203509"
+      "source_url": "https://allevents.in/hyderabad/telling-lies-a-standup-solo-by-aashish-solanki/3900030598974832"
     },
     {
       "name": "Japanese Hirameki",
@@ -413,13 +422,13 @@
       "source_url": "https://allevents.in/hyderabad/miniature-cheriyal-mask-hyderabad/3900030909210015"
     },
     {
-      "name": "Route 143 - Anuv Jain",
+      "name": "VIR DAS - SOUNDS OF INDIA - CHENNAI",
       "date": "2026-10-31",
       "city": "Chennai",
-      "venue": "EVP Film City: Chennai",
+      "venue": "Sir Mutha Venkatasubba Rao Concert Hall: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/route-143-anuv-jain/3900030613942254"
+      "source_url": "https://allevents.in/chennai/vir-das-sounds-of-india-chennai/3900030423974347"
     },
     {
       "name": "Halloween Night",
@@ -429,6 +438,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/halloween-night/4100030758944623"
+    },
+    {
+      "name": "Route 143 - Anuv Jain",
+      "date": "2026-10-31",
+      "city": "Chennai",
+      "venue": "EVP Film City: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/route-143-anuv-jain/3900030613942254"
     },
     {
       "name": "The Halloween Party - Grave Rave",
@@ -449,13 +467,22 @@
       "source_url": "https://allevents.in/chennai/kll-a-beat-maker/4100030911170553"
     },
     {
-      "name": "PUPPET SHOW @ Ornamental Fish Trade Centre near Padi Flyover",
+      "name": "Halloween Adventure Night 2026 at Rocksport",
       "date": "2026-10-31",
       "city": "Chennai",
-      "venue": "452W+F74, Sivasakthi Colony, Agathiyar Nagar, Villivakkam, Chennai, Tamil Nadu 600049, Chennai, India 600049, Tamil Nadu",
+      "venue": "Rocksport Chennai",
+      "cat": "sports",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/halloween-adventure-night-2026-at-rocksport/4100030911172802"
+    },
+    {
+      "name": "Stranger debate: love vs money ?",
+      "date": "2026-10-31",
+      "city": "Chennai",
+      "venue": "Nungambakkam",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/puppet-show-ornamental-fish-trade-centre-near-padi-flyover/200030832531218"
+      "source_url": "https://allevents.in/chennai/stranger-debate-love-vs-money-tickets/80008953015112"
     },
     {
       "name": "Paint Your Own Terracotta Diyas",
@@ -476,58 +503,13 @@
       "source_url": "https://allevents.in/chennai/an-evening-of-pottery-tickets/80003166566800"
     },
     {
-      "name": "Oil Painting Date - Chennai",
+      "name": "PUPPET SHOW @ Ornamental Fish Trade Centre near Padi Flyover",
       "date": "2026-10-31",
       "city": "Chennai",
-      "venue": "Kreate By Kraft: Chennai",
+      "venue": "452W+F74, Sivasakthi Colony, Agathiyar Nagar, Villivakkam, Chennai, Tamil Nadu 600049, Chennai, India 600049, Tamil Nadu",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/oil-painting-date-chennai/3900030907902049"
-    },
-    {
-      "name": "My Own Solar System",
-      "date": "2026-10-31",
-      "city": "Chennai",
-      "venue": "Third Wave Coffee, Ashok Nagar: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/my-own-solar-system/3900030913193931"
-    },
-    {
-      "name": "Modern Texture Painting",
-      "date": "2026-10-31",
-      "city": "Chennai",
-      "venue": "Third Wave Coffee, Ashok Nagar: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/modern-texture-painting/3900030909744028"
-    },
-    {
-      "name": "Stone painting",
-      "date": "2026-10-31",
-      "city": "Chennai",
-      "venue": "Rotticious: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/stone-painting/3900030919085235"
-    },
-    {
-      "name": "The Unhinged AF Improv comedy show",
-      "date": "2026-10-31",
-      "city": "Chennai",
-      "venue": "IDAM - The Art &amp; Cultural Space: Chennai",
-      "cat": "comedy",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/the-unhinged-af-improv-comedy-show/3900030837668302"
-    },
-    {
-      "name": "Zindagi Kaisi Hai Paheli Haay",
-      "date": "2026-10-31",
-      "city": "Chennai",
-      "venue": "International Village School",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/zindagi-kaisi-hai-paheli-haay-tickets/80002433761365"
+      "source_url": "https://allevents.in/chennai/puppet-show-ornamental-fish-trade-centre-near-padi-flyover/200030832531218"
     },
     {
       "name": "A R Rahman",
@@ -548,6 +530,15 @@
       "source_url": "https://allevents.in/mumbai/inventions-by-biswa-kalyan-rath/3900030604463927"
     },
     {
+      "name": "DIL SE DIL TAK",
+      "date": "2026-11-01",
+      "city": "Mumbai",
+      "venue": "Aspee Auditorium - Malad West: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/dil-se-dil-tak/3900030682387611"
+    },
+    {
       "name": "The Bean Bowl Jam Yard",
       "date": "2026-11-01",
       "city": "Mumbai",
@@ -564,15 +555,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/chembur-kids-carnival/3900030046702643"
-    },
-    {
-      "name": "DIL SE DIL TAK",
-      "date": "2026-11-01",
-      "city": "Mumbai",
-      "venue": "Aspee Auditorium - Malad West: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/dil-se-dil-tak/3900030682387611"
     },
     {
       "name": "Hand Block Printing Masterclass",
@@ -629,6 +611,15 @@
       "source_url": "https://allevents.in/hyderabad/naram-lehja-by-kanha-kamboj/3900030651829715"
     },
     {
+      "name": "Madras Driven - Cars &amp; Cocoa: Underground 2",
+      "date": "2026-11-01",
+      "city": "Chennai",
+      "venue": "THE MARINA MALL",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/madras-driven-cars-and-cocoa-underground-2/4100030822663906"
+    },
+    {
       "name": "Kerala Piravi : Malayalam Jamming",
       "date": "2026-11-01",
       "city": "Chennai",
@@ -647,13 +638,13 @@
       "source_url": "https://allevents.in/chennai/diwali-takeover-ft-minus/4100030910946200"
     },
     {
-      "name": "Madras Driven - Cars &amp; Cocoa: Underground 2",
+      "name": "Chennai Speakers Hive Meetup",
       "date": "2026-11-01",
       "city": "Chennai",
-      "venue": "THE MARINA MALL",
+      "venue": "Hari Om Vidyalaya School, 5th Section, 22nd Street, KK Nagar, Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/madras-driven-cars-and-cocoa-underground-2/4100030822663906"
+      "source_url": "https://allevents.in/chennai/chennai-speakers-hive-meetup/200030744029732"
     },
     {
       "name": "State Level Kids Drawing Festival 2026",
@@ -746,6 +737,15 @@
       "source_url": "https://allevents.in/hyderabad/anime-multiverse-cosplay-edition-season-2/3900030148336431"
     },
     {
+      "name": "Jamming Session Band Explorers",
+      "date": "2026-11-07",
+      "city": "Hyderabad",
+      "venue": "OUZO Club And Kitchen: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/jamming-session-band-explorers/3900030835803604"
+    },
+    {
       "name": "Sukoon Bharat Tour - Chennai",
       "date": "2026-11-07",
       "city": "Chennai",
@@ -780,6 +780,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/dude-movie/200030071918207"
+    },
+    {
+      "name": "Chennai BlaBla Language Exchange - Every other Thursday - Recurrent event -",
+      "date": "2026-11-12",
+      "city": "Chennai",
+      "venue": "Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chennai-blabla-language-exchange-every-other-thursday-recurrent-event/200030258465626"
     },
     {
       "name": "Concert",
@@ -989,15 +998,6 @@
       "source_url": "https://allevents.in/hyderabad/bangtanverse-carnival-fan-tour/3900030675826608"
     },
     {
-      "name": "Beta Male by Varun Nair",
-      "date": "2026-11-15",
-      "city": "Hyderabad",
-      "venue": "The Comedy Theatre: Hyderabad.",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/beta-male-by-varun-nair/3900030662346521"
-    },
-    {
       "name": "Jammers - Jamming Truly 12th Edition",
       "date": "2026-11-15",
       "city": "Hyderabad",
@@ -1007,22 +1007,13 @@
       "source_url": "https://allevents.in/hyderabad/jammers-jamming-truly-12th-edition/4100030838468150"
     },
     {
-      "name": "Survivor's Guilt",
+      "name": "Beta Male by Varun Nair",
       "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "The Music Academy: Chennai",
+      "city": "Hyderabad",
+      "venue": "The Comedy Theatre: Hyderabad.",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/survivors-guilt/3900030213417917"
-    },
-    {
-      "name": "Arvind Sunder Live a stand up comedy show",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "Trinity Studio: Kodambakkam",
-      "cat": "comedy",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/arvind-sunder-live-a-stand-up-comedy-show/3900030764511212"
+      "source_url": "https://allevents.in/hyderabad/beta-male-by-varun-nair/3900030662346521"
     },
     {
       "name": "JINNAAD Jain Bhakti Concert",
@@ -1050,15 +1041,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/vedanta-kids-walkathon-tickets/80001263168218"
-    },
-    {
-      "name": "&quot;Art Atti&quot; Celebration of seasons",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "Sir Pt Thiyagrayar Kalaiyarangam: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/art-atti-celebration-of-seasons/3900030906037009"
     },
     {
       "name": "India Finance &amp; Tech Summit 2026  (Finance Transformation Summit)",
@@ -1104,6 +1086,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/pet-fed-hyderabad-2026/3900030700809640"
+    },
+    {
+      "name": "Retired NOT Hurt - A Tamil Stand up Show",
+      "date": "2026-11-21",
+      "city": "Chennai",
+      "venue": "Music Academy: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/retired-not-hurt-a-tamil-stand-up-show/3900030489768146"
     },
     {
       "name": "Naanum Foodie Dhaan by Praveen Kumar",
@@ -1178,6 +1169,15 @@
       "source_url": "https://allevents.in/hyderabad/papon-live-in-concert/4100030622267646"
     },
     {
+      "name": "AI FinOps: Managing LLM, GPU and Agentic AI Costs",
+      "date": "2026-11-28",
+      "city": "Hyderabad",
+      "venue": "NP Venue - Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/ai-finops-managing-llm-gpu-and-agentic-ai-costs/100002003559273722"
+    },
+    {
       "name": "Pawga's Diya Painting w. Puppies",
       "date": "2026-11-28",
       "city": "Chennai",
@@ -1185,6 +1185,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/pawgas-diya-painting-w-puppies/4100030905041151"
+    },
+    {
+      "name": "Thinking &amp; Doing - Joel Dsouza",
+      "date": "2026-11-28",
+      "city": "Chennai",
+      "venue": "Medai - The Stage, Alwarpet: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/thinking-and-doing-joel-dsouza/3900030701451001"
     },
     {
       "name": "Right to INR | B2B Networking | Wealth &amp; Investment Insights",
@@ -1313,15 +1322,6 @@
       "source_url": "https://allevents.in/hyderabad/ad-design-show-2026-hyderabad/3900030021253400"
     },
     {
-      "name": "Fred again.. in Bengaluru",
-      "date": "2026-12-12",
-      "city": "Bangalore",
-      "venue": "NICE Grounds: Bengaluru",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/fred-again-in-bengaluru/3300030339910215"
-    },
-    {
       "name": "QS Discover Master's Fair in Hyderabad",
       "date": "2026-12-12",
       "city": "Hyderabad",
@@ -1347,6 +1347,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/darshan-ravals-love-letters-india-tour/4100030647862844"
+    },
+    {
+      "name": "OVERSMARTGIRI by Aditya Gundeti",
+      "date": "2026-12-13",
+      "city": "Chennai",
+      "venue": "Medai - The Stage, Alwarpet: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/oversmartgiri-by-aditya-gundeti/3900030720750301"
     },
     {
       "name": "Pallikattu Sabarimalaikku Veeramani Raju Live",
@@ -1403,6 +1412,24 @@
       "source_url": "https://allevents.in/chennai/grow-your-business-at-build-expo-2026-tickets/80001591354550"
     },
     {
+      "name": "Tribute of Melody Queen - S. Janaki",
+      "date": "2026-12-20",
+      "city": "Chennai",
+      "venue": "Image Auditorium: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/tribute-of-melody-queen-s-janaki/3900030752342328"
+    },
+    {
+      "name": "Make Friends &amp; Photowalk Meetup",
+      "date": "2026-12-26",
+      "city": "Chennai",
+      "venue": "Chennai (currently online during our photo challenges)",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/make-friends-and-photowalk-meetup/200030045087655"
+    },
+    {
       "name": "Kal ki Chinta Nahi Karta ft. Ravi Gupta",
       "date": "2026-12-27",
       "city": "Chennai",
@@ -1412,13 +1439,13 @@
       "source_url": "https://allevents.in/chennai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030764279659"
     },
     {
-      "name": "BEEDI Ft. Munawar Faruqui",
-      "date": "2027-01-10",
+      "name": "Music Journey",
+      "date": "2027-01-03",
       "city": "Chennai",
-      "venue": "Venue To Be Announced: Chennai",
+      "venue": "Kamarajar Arangam: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/beedi-ft-munawar-faruqui/3900030732845924"
+      "source_url": "https://allevents.in/chennai/music-journey/3900030666515231"
     },
     {
       "name": "PONGAL FESTIVAL DAYS! \u2764\ufe0f\ud83d\udc4d\ud83d\ude4f",
@@ -1446,15 +1473,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/dont-give-your-best-by-rahul-subramanian/3900030683779003"
-    },
-    {
-      "name": "Olivier Giraud Live - India Tour",
-      "date": "2027-02-14",
-      "city": "Chennai",
-      "venue": "Venue To Be Announced: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/olivier-giraud-live-india-tour/3900029818021858"
     },
     {
       "name": "Water Today's Water Expo 2027",
