@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T13:00:33.711740Z",
+  "generated_at": "2026-11-01T21:54:45.974536Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-11-01T13:00:02.285176Z",
-      "event_count": 163,
+      "last_success": "2026-11-01T21:54:14.773364Z",
+      "event_count": 159,
       "status": "ok"
     },
     "bookmyshow.com": {
@@ -16,33 +16,6 @@
     "bookmyshow.com"
   ],
   "events": [
-    {
-      "name": "Raasta x Amigo Halloween Party",
-      "date": "2026-10-31",
-      "city": "Mumbai",
-      "venue": "Raasta | Khar, Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/raasta-x-amigo-halloween-party/4100030941062512"
-    },
-    {
-      "name": "Halloween After Dark at Lord of The Drinks Worli",
-      "date": "2026-10-31",
-      "city": "Mumbai",
-      "venue": "Lord Of The Drinks | Worli, Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/halloween-after-dark-at-lord-of-the-drinks-worli/4100030940125037"
-    },
-    {
-      "name": "Haunted Night: Halloween Party",
-      "date": "2026-10-31",
-      "city": "Mumbai",
-      "venue": "Beryl Club: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/haunted-night-halloween-party/3900030848334946"
-    },
     {
       "name": "Halloween at the Surrealist Ball at Supa San Bandra W",
       "date": "2026-10-31",
@@ -62,6 +35,15 @@
       "source_url": "https://allevents.in/mumbai/the-dark-bollywood-affair/4100030940125449"
     },
     {
+      "name": "Raasta x Amigo Halloween Party",
+      "date": "2026-10-31",
+      "city": "Mumbai",
+      "venue": "Raasta | Khar, Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/raasta-x-amigo-halloween-party/4100030941062512"
+    },
+    {
       "name": "Bhoot Bizzare with Calm Chor, Life Enjoyers Club, Mycelio, Cursorama and Yogi",
       "date": "2026-10-31",
       "city": "Mumbai",
@@ -71,6 +53,15 @@
       "source_url": "https://allevents.in/mumbai/bhoot-bizzare-with-calm-chor-life-enjoyers-club-mycelio-cursorama-and-yogi/4100030940124220"
     },
     {
+      "name": "Halloween After Dark at Lord of The Drinks Worli",
+      "date": "2026-10-31",
+      "city": "Mumbai",
+      "venue": "Lord Of The Drinks | Worli, Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/halloween-after-dark-at-lord-of-the-drinks-worli/4100030940125037"
+    },
+    {
       "name": "Lockup Hell-O-Ween ft. Shreya Kalra and DJ Bhavik",
       "date": "2026-10-31",
       "city": "Mumbai",
@@ -78,15 +69,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/lockup-hell-o-ween-ft-shreya-kalra-and-dj-bhavik/4100030940123059"
-    },
-    {
-      "name": "Karnataka Rajyotsava Night",
-      "date": "2026-11-01",
-      "city": "Bangalore",
-      "venue": "Babylonia - Global Food and Cocktails",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/karnataka-rajyotsava-night-tickets/80003742884308"
     },
     {
       "name": "A R Rahman",
@@ -114,15 +96,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/diya-delight/3900030947446103"
-    },
-    {
-      "name": "AI &amp; Ancient Knowledge Meetup",
-      "date": "2026-11-01",
-      "city": "Mumbai",
-      "venue": "Lecture Hall Complex 3",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ai-and-ancient-knowledge-meetup/100002003851008308"
     },
     {
       "name": "Quick Style India Tour - Hyderabad",
@@ -206,13 +179,13 @@
       "source_url": "https://allevents.in/hyderabad/3d-blueberry-and-raspberry-painting-workshop/3900030906232254"
     },
     {
-      "name": "Tribal Art",
+      "name": "Decoden comb making workshop",
       "date": "2026-11-01",
       "city": "Hyderabad",
-      "venue": "Zyca Cafe And Kitchen: Hyderabad",
-      "cat": "concert",
+      "venue": "Broadway - New Age Department Store: Hyderabad",
+      "cat": "education",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/tribal-art/3900030943793541"
+      "source_url": "https://allevents.in/hyderabad/decoden-comb-making-workshop/3900030942531837"
     },
     {
       "name": "Crochet Cloud",
@@ -222,15 +195,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/crochet-cloud/3900030947277934"
-    },
-    {
-      "name": "Decoden comb making workshop",
-      "date": "2026-11-01",
-      "city": "Hyderabad",
-      "venue": "Broadway - New Age Department Store: Hyderabad",
-      "cat": "education",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/decoden-comb-making-workshop/3900030942531837"
     },
     {
       "name": "Mirror work diya decorating",
@@ -287,6 +251,24 @@
       "source_url": "https://allevents.in/chennai/madras-driven-cars-and-cocoa-underground-2/4100030822663906"
     },
     {
+      "name": "UNO Battle \u2013 Chennai | Fun UNO Game &amp;amp; Stranger Meetup",
+      "date": "2026-11-01",
+      "city": "Chennai",
+      "venue": "Anna Nagar",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/uno-battle-chennai-fun-uno-game-andamp;-stranger-meetup-tickets/80001802955151"
+    },
+    {
+      "name": "Chennai Speakers Hive Meetup",
+      "date": "2026-11-01",
+      "city": "Chennai",
+      "venue": "Hari Om Vidyalaya School, 5th Section, 22nd Street, KK Nagar, Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chennai-speakers-hive-meetup/200030744029732"
+    },
+    {
       "name": "Kerala Piravi : Malayalam Jamming",
       "date": "2026-11-01",
       "city": "Chennai",
@@ -314,24 +296,6 @@
       "source_url": "https://allevents.in/chennai/miniature-cheriyal-mask-chennai/3900030946238135"
     },
     {
-      "name": "UNO Battle \u2013 Chennai | Fun UNO Game &amp;amp; Stranger Meetup",
-      "date": "2026-11-01",
-      "city": "Chennai",
-      "venue": "Anna Nagar",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/uno-battle-chennai-fun-uno-game-andamp;-stranger-meetup-tickets/80001802955151"
-    },
-    {
-      "name": "Chennai Speakers Hive Meetup",
-      "date": "2026-11-01",
-      "city": "Chennai",
-      "venue": "Hari Om Vidyalaya School, 5th Section, 22nd Street, KK Nagar, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/chennai-speakers-hive-meetup/200030744029732"
-    },
-    {
       "name": "The Glo Games \u2b50\ufe0f",
       "date": "2026-11-01",
       "city": "Chennai",
@@ -350,13 +314,13 @@
       "source_url": "https://allevents.in/mumbai/maritime-india-conference-and-expo-2026/200030482025954"
     },
     {
-      "name": "BORN UP \u2014 Devcon Mumbai Community Networking Meetup",
-      "date": "2026-11-03",
-      "city": "Mumbai",
-      "venue": "Jio World Convention Centre",
-      "cat": "corporate",
+      "name": "Perfume making",
+      "date": "2026-11-02",
+      "city": "Hyderabad",
+      "venue": "De` Cafe Studio: Hyderabad",
+      "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/born-up-devcon-mumbai-community-networking-meetup/100002004026417963"
+      "source_url": "https://allevents.in/hyderabad/perfume-making/3900030949373438"
     },
     {
       "name": "VIPUL GOYAL UNLEASHED Live in Mumbai",
@@ -366,15 +330,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/vipul-goyal-unleashed-live-in-mumbai/3900030754579000"
-    },
-    {
-      "name": "Trade Smarter. Never Get Liquidated. | ClickOptions \u00d7 NextWave",
-      "date": "2026-11-04",
-      "city": "Mumbai",
-      "venue": "Dextrus One BKC",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/trade-smarter-never-get-liquidated-clickoptions-\u00d7-nextwave/100002004097901773"
     },
     {
       "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
@@ -404,6 +359,15 @@
       "source_url": "https://allevents.in/bangalore/dhvani-bhanushali-live-in-bengaluru/3900030555036325"
     },
     {
+      "name": "Diwali DJ Party",
+      "date": "2026-11-07",
+      "city": "Bangalore",
+      "venue": "DashandCoop | Smash Burgers &amp; Nashville Chicken | Church Street",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/diwali-dj-party-tickets/80008164136370"
+    },
+    {
       "name": "Bangalore Secret Treks - 7th November",
       "date": "2026-11-07",
       "city": "Bengaluru",
@@ -411,15 +375,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bengaluru/bangalore-secret-treks-7th-november/100001998413007100"
-    },
-    {
-      "name": "Halloween Party",
-      "date": "2026-11-07",
-      "city": "Navi Mumbai",
-      "venue": "Nerul, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/navi-mumbai/halloween-party/200029295772841"
     },
     {
       "name": "Mahesh Kale Diwali Vishesh - Vashi Navi Mumbai",
@@ -492,6 +447,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/sukoon-bharat-tour-chennai/3900030527086529"
+    },
+    {
+      "name": "Glo &amp; Groove: Diwali Edition\ud83e\ude94\u2728\ufe0f",
+      "date": "2026-11-07",
+      "city": "Chennai",
+      "venue": "Meraki- Art of Dance",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/glo-and-groove-diwali-edition\ufe0f-tickets/80001512150652"
     },
     {
       "name": "Happy Diwali",
@@ -584,6 +548,15 @@
       "source_url": "https://allevents.in/bangalore/guns-n-roses-india-2026-bengaluru/3900030235630234"
     },
     {
+      "name": "World Diabetic Awareness Day Run",
+      "date": "2026-11-14",
+      "city": "Bangalore",
+      "venue": "Decathlon Sarjapur Road",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/world-diabetic-awareness-day-run-tickets/80002657258604"
+    },
+    {
       "name": "Bangalore Card Show",
       "date": "2026-11-14",
       "city": "Bangalore",
@@ -600,15 +573,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/chhath-puja-mumbai-nagriya-me/200029857085809"
-    },
-    {
-      "name": "Bandra West Fempreneur meet up",
-      "date": "2026-11-14",
-      "city": "Mumbai",
-      "venue": "Brooke Bond Taj Mahal Tea House",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/bandra-west-fempreneur-meet-up/100002003975997153"
     },
     {
       "name": "Madhubanti Bagchi in Hyderabad",
@@ -764,6 +728,15 @@
       "source_url": "https://allevents.in/chennai/evolution-by-arvind-sunder/3900030764511212"
     },
     {
+      "name": "JINNAAD Jain Bhakti Concert",
+      "date": "2026-11-15",
+      "city": "Chennai",
+      "venue": "YMCA, Royapettah: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/jinnaad-jain-bhakti-concert/3900030742616628"
+    },
+    {
       "name": "Chennai KIDS Walkathon",
       "date": "2026-11-15",
       "city": "Chennai",
@@ -780,15 +753,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/vedanta-kids-walkathon-tickets/80001263168218"
-    },
-    {
-      "name": "JINNAAD Jain Bhakti Concert",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "YMCA, Royapettah: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/jinnaad-jain-bhakti-concert/3900030742616628"
     },
     {
       "name": "Teen Prahar - A Unique Musical Experience",
@@ -852,15 +816,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/samanvitha-sharma-chitrahaar-9-velvet-voices/3900030529690806"
-    },
-    {
-      "name": "Madhubanti Bagchi in Bengaluru",
-      "date": "2026-11-21",
-      "city": "Bangalore",
-      "venue": "Phoenix Marketcity",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/madhubanti-bagchi-in-bengaluru/3300030436751613"
     },
     {
       "name": "Anyma \u00c6DEN Tour \u2013 Mumbai",
@@ -998,6 +953,24 @@
       "source_url": "https://allevents.in/bangalore/indusfood-2026-bengaluru/200030088365008"
     },
     {
+      "name": "India NBFC Summit &amp; Awards 2026",
+      "date": "2026-11-25",
+      "city": "Mumbai",
+      "venue": "The LaLiT Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/india-nbfc-summit-and-awards-2026/100002000367029634"
+    },
+    {
+      "name": "Petbridge Expo",
+      "date": "2026-11-25",
+      "city": "Mumbai",
+      "venue": "Nesco Internal Private Road, Nesco, Goregaon East, Mumbai 400063, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/petbridge-expo/200029857092218"
+    },
+    {
       "name": "Poultry India Expo 2026 | Meet Koshish Sustainable Solutions",
       "date": "2026-11-25",
       "city": "Hyderabad",
@@ -1041,15 +1014,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/beedi-ft-munawar-faruqui/3900030456403215"
-    },
-    {
-      "name": "Navi Mumbai Comic Con",
-      "date": "2026-11-28",
-      "city": "Mumbai",
-      "venue": "CIDCO Exhibition Centre Auditorium: Vashi",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/navi-mumbai-comic-con/3900030669145254"
     },
     {
       "name": "Dr. Kumar Vishwas live in Kavi Sammelan Concert",
@@ -1212,6 +1176,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/fred-again-in-mumbai/3300030339910010"
+    },
+    {
+      "name": "WOFX- World Furniture Expo",
+      "date": "2026-12-08",
+      "city": "Mumbai",
+      "venue": "Bombay Exhibition Centre",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/wofx-world-furniture-expo/80006619544993"
     },
     {
       "name": "QS Discover Master's Fair in Chennai",
@@ -1385,6 +1358,15 @@
       "source_url": "https://allevents.in/chennai/tribute-of-melody-queen-s-janaki/3900030752342328"
     },
     {
+      "name": "INTIMASIA -Worlds second largest Trade show co-loacted with SOURCENXT",
+      "date": "2026-12-22",
+      "city": "Mumbai",
+      "venue": "NESCO",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/intimasia-worlds-second-largest-trade-show-co-loacted-with-sourcenxt/100001992038681320"
+    },
+    {
       "name": "Francis Mercier- Live in Hyderabad",
       "date": "2026-12-26",
       "city": "Hyderabad",
@@ -1410,15 +1392,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/music-journey/3900030666515231"
-    },
-    {
-      "name": "PONGAL FESTIVAL DAYS! \u2764\ufe0f\ud83d\udc4d\ud83d\ude4f",
-      "date": "2027-01-15",
-      "city": "Chennai",
-      "venue": "Tamizhagam, Tamil Nadu, India",
-      "cat": "festival",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/pongal-festival-days/200030637408637"
     },
     {
       "name": "INDOOR AND TROPHY SECTION",
