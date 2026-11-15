@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-15T05:51:11.346449Z",
+  "generated_at": "2026-11-15T13:46:28.345413Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-11-15T05:50:40.239705Z",
+      "last_success": "2026-11-15T13:45:56.170876Z",
       "event_count": 159,
       "status": "ok"
     },
@@ -26,15 +26,6 @@
       "source_url": "https://allevents.in/mumbai/diwali-afterparty/3900030976529407"
     },
     {
-      "name": "SOIREE SATURDAYS ft. DJ AMORA TAP WORLI",
-      "date": "2026-11-14",
-      "city": "Mumbai",
-      "venue": "TAP Resto And Bar : Worli",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/soiree-saturdays-ft-dj-amora-tap-worli/3900031031039834"
-    },
-    {
       "name": "The Band Agam Live in Hyderabad",
       "date": "2026-11-14",
       "city": "Hyderabad",
@@ -53,13 +44,13 @@
       "source_url": "https://allevents.in/hyderabad/expodent-hyderabad-2026/200031003745401"
     },
     {
-      "name": "15th International Symposium of NDT in Aerospace and 36th Annual NDT Conference by ISNT",
+      "name": "NDE 2026 &amp; AeroNDT 2026 | India's Premier NDT Conference | 14\u201317\nNov, Hyderabad | ISNT",
       "date": "2026-11-14",
-      "city": "Chennai",
-      "venue": "Modules 60 &amp; 61, 3rd Floor, Readymade Garment Complex, Guindy, Chennai, India 600 032, Tamil Nadu",
+      "city": "Hyderabad",
+      "venue": "Hitex Hall",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/15th-international-symposium-of-ndt-in-aerospace-and-36th-annual-ndt-conference-by-isnt/200030341557631"
+      "source_url": "https://allevents.in/hyderabad/nde-2026-and-aerondt-2026-indias-premier-ndt-conference-14-17-nov-hyderabad-isnt/200030954028034"
     },
     {
       "name": "Snuggle Land - Chennai's Family Carnival",
@@ -69,6 +60,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/snuggle-land-chennais-family-carnival/200031016108355"
+    },
+    {
+      "name": "15th International Symposium of NDT in Aerospace and 36th Annual NDT Conference by ISNT",
+      "date": "2026-11-14",
+      "city": "Chennai",
+      "venue": "Modules 60 &amp; 61, 3rd Floor, Readymade Garment Complex, Guindy, Chennai, India 600 032, Tamil Nadu",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/15th-international-symposium-of-ndt-in-aerospace-and-36th-annual-ndt-conference-by-isnt/200030341557631"
     },
     {
       "name": "Javed Akhtar &amp; Shabana Azmi: Poetry &amp; Converstion",
@@ -116,24 +116,6 @@
       "source_url": "https://allevents.in/mumbai/dance-in-devotion-with-soulful-bhajans-mumbai/3900030630844442"
     },
     {
-      "name": "The Human Upgrade Fest - Mumbai 2026",
-      "date": "2026-11-15",
-      "city": "Mumbai",
-      "venue": "The National Sports Club Of India(NSCI)",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/the-human-upgrade-fest-mumbai-2026/3900030688787920"
-    },
-    {
-      "name": "Ek Lamha Zindagi - - A Love Story 1938-1979",
-      "date": "2026-11-15",
-      "city": "Mumbai",
-      "venue": "St. Andrews Auditorium: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ek-lamha-zindagi-a-love-story-1938-1979/3900030975660320"
-    },
-    {
       "name": "Tum Bin Jaoon kahan",
       "date": "2026-11-15",
       "city": "Mumbai",
@@ -150,6 +132,24 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/patra-patri/3900030975603105"
+    },
+    {
+      "name": "The Human Upgrade Fest - Mumbai 2026",
+      "date": "2026-11-15",
+      "city": "Mumbai",
+      "venue": "The National Sports Club Of India(NSCI)",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/the-human-upgrade-fest-mumbai-2026/3900030688787920"
+    },
+    {
+      "name": "Ek Lamha Zindagi - - A Love Story 1938-1979",
+      "date": "2026-11-15",
+      "city": "Mumbai",
+      "venue": "St. Andrews Auditorium: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/ek-lamha-zindagi-a-love-story-1938-1979/3900030975660320"
     },
     {
       "name": "BANGTANVERSE CARNIVAL - FAN TOUR",
@@ -233,22 +233,13 @@
       "source_url": "https://allevents.in/hyderabad/the-dough-and-batter-republic-brunch/3900031038899444"
     },
     {
-      "name": "Grab Gen AI Course Free Demo Session &amp; Internship Opportunity",
+      "name": "Shrubs Bingo.",
       "date": "2026-11-15",
       "city": "Hyderabad",
-      "venue": "beside Ameerpet metro station nilgiri hills, aditya enclave, Ameerpet, Hyderabad, Telangana, 500016",
+      "venue": "Urban Nemo Cafe and Garden: Hyderabad",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/grab-gen-ai-course-free-demo-session-and-internship-opportunity/100002004836673459"
-    },
-    {
-      "name": "Free Scholarship Test for Full Stack Python with AI \u2013 Quality Thought",
-      "date": "2026-11-15",
-      "city": "Hyderabad",
-      "venue": "Ameerpet, Hyderabad, Telangana, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671"
+      "source_url": "https://allevents.in/hyderabad/shrubs-bingo/3900030980845515"
     },
     {
       "name": "Rave Party in a Theme Park - VGP Wonder World",
@@ -278,24 +269,6 @@
       "source_url": "https://allevents.in/chennai/ottam-vibe-feat-asal-kolaar/4100031045567602"
     },
     {
-      "name": "TTE Business Meet | B2B Networking | Founders &amp; Startups",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "Bloom Hub | Guindy",
-      "cat": "corporate",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/tte-business-meet-b2b-networking-founders-and-startups/100002004422246898"
-    },
-    {
-      "name": "JINNAAD Jain Bhakti Concert",
-      "date": "2026-11-15",
-      "city": "Chennai",
-      "venue": "YMCA, Royapettah: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/jinnaad-jain-bhakti-concert/3900030742616628"
-    },
-    {
       "name": "Monsoon 150km, Saaral 75km &amp; Thooral 25km Ride - Nov 2026",
       "date": "2026-11-15",
       "city": "Chennai",
@@ -312,6 +285,24 @@
       "cat": "sports",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/dd-sport-hub-football-tournament/3900030977402932"
+    },
+    {
+      "name": "JINNAAD Jain Bhakti Concert",
+      "date": "2026-11-15",
+      "city": "Chennai",
+      "venue": "YMCA, Royapettah: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/jinnaad-jain-bhakti-concert/3900030742616628"
+    },
+    {
+      "name": "TTE Business Meet | B2B Networking | Founders &amp; Startups",
+      "date": "2026-11-15",
+      "city": "Chennai",
+      "venue": "Bloom Hub | Guindy",
+      "cat": "corporate",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/tte-business-meet-b2b-networking-founders-and-startups/100002004422246898"
     },
     {
       "name": "1000 UDHAI VAANGIA ABOORVA SIGAMANI",
@@ -350,15 +341,6 @@
       "source_url": "https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666"
     },
     {
-      "name": "Daily Ka Kaam Hai By Aakash Gupta - Mumbai",
-      "date": "2026-11-18",
-      "city": "Mumbai",
-      "venue": "Prabodhankar Thackeray Audi: Borivali(W)",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/daily-ka-kaam-hai-by-aakash-gupta-mumbai/3900030963363233"
-    },
-    {
       "name": "Trial Show ft. Varun Grover: KCC",
       "date": "2026-11-18",
       "city": "Mumbai",
@@ -366,6 +348,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/trial-show-ft-varun-grover-kcc/3900030976473639"
+    },
+    {
+      "name": "Daily Ka Kaam Hai By Aakash Gupta - Mumbai",
+      "date": "2026-11-18",
+      "city": "Mumbai",
+      "venue": "Prabodhankar Thackeray Audi: Borivali(W)",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/daily-ka-kaam-hai-by-aakash-gupta-mumbai/3900030963363233"
     },
     {
       "name": "Evergreen Romantic Songs by Javed Ali",
@@ -386,15 +377,6 @@
       "source_url": "https://allevents.in/mumbai/duos-ft-swati-sachdeva-and-urooj-ashfaq-kcc/3900030960453015"
     },
     {
-      "name": "Ek Akela Iss Sheher Mein",
-      "date": "2026-11-19",
-      "city": "Mumbai",
-      "venue": "Experimental Theatre: NCPA.",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ek-akela-iss-sheher-mein/3900030975183559"
-    },
-    {
       "name": "Secure Your Spot at a Top Global University",
       "date": "2026-11-19",
       "city": "Hyderabad",
@@ -411,6 +393,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/punha-sahi-re-sahi/3900031002825449"
+    },
+    {
+      "name": "NCPA International Jazz Festival 2026 - Day 3",
+      "date": "2026-11-20",
+      "city": "Mumbai",
+      "venue": "Jamshed Bhabha Theatre: NCPA.",
+      "cat": "festival",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/ncpa-international-jazz-festival-2026-day-3/3900030550002640"
     },
     {
       "name": "Bharat AI Innovation - Conference &amp; Exhibition",
@@ -431,33 +422,6 @@
       "source_url": "https://allevents.in/mumbai/warehouse-and-cold-storage-management-systems-wms/200029857090500"
     },
     {
-      "name": "IPTA Mumbai's Taj Mahal Ka Tender",
-      "date": "2026-11-20",
-      "city": "Mumbai",
-      "venue": "Prithvi Theatre",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ipta-mumbais-taj-mahal-ka-tender/3900030973847424"
-    },
-    {
-      "name": "Beyond the Groove",
-      "date": "2026-11-20",
-      "city": "Mumbai",
-      "venue": "Kitty Su: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/beyond-the-groove/3900031034535147"
-    },
-    {
-      "name": "Ek Tichi Goshta",
-      "date": "2026-11-20",
-      "city": "Mumbai",
-      "venue": "Ram Ganesh Gadkari Rangayatan: Thane",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/ek-tichi-goshta/3900031002837606"
-    },
-    {
       "name": "Hyderabad Entrepreneurship Summit (HES) 2026 | TiE Hyderabad",
       "date": "2026-11-20",
       "city": "Hyderabad",
@@ -465,15 +429,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/hyderabad-entrepreneurship-summit-hes-2026-tie-hyderabad/80002323089992"
-    },
-    {
-      "name": "Hyderabad Entrepreneurship Summit (HES) 2026",
-      "date": "2026-11-20",
-      "city": "Hyderabad",
-      "venue": "Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/hyderabad-entrepreneurship-summit-hes-2026/80002466662442"
     },
     {
       "name": "Madhubanti Bagchi in Bengaluru",
@@ -512,15 +467,6 @@
       "source_url": "https://allevents.in/mumbai/aicd-mumbai/100001993446475069"
     },
     {
-      "name": "Anyma in Mumbai",
-      "date": "2026-11-21",
-      "city": "Mumbai",
-      "venue": " Mumbai, MH, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/anyma-in-mumbai/3300029707264225"
-    },
-    {
       "name": "ALADDIN - THE WORLD'S FIRST AI POWERED MUSICAL",
       "date": "2026-11-21",
       "city": "Mumbai",
@@ -528,6 +474,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/aladdin-the-worlds-first-ai-powered-musical/3900031030633355"
+    },
+    {
+      "name": "Anyma in Mumbai",
+      "date": "2026-11-21",
+      "city": "Mumbai",
+      "venue": " Mumbai, MH, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/anyma-in-mumbai/3300029707264225"
     },
     {
       "name": "Kasyap ft. Vinuthna Live at Illuzion Club",
@@ -582,6 +537,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/cheesy-garlic-herb-rollstriple-chocolate-brownies/3900030982083654"
+    },
+    {
+      "name": "James Hoffmann Live in Hyderabad",
+      "date": "2026-11-21",
+      "city": "Hyderabad",
+      "venue": "Roast CCx | Banjara Hills, Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/james-hoffmann-live-in-hyderabad/4100030939092723"
     },
     {
       "name": "Secure Your Spot at a Top Global University",
@@ -719,24 +683,6 @@
       "source_url": "https://allevents.in/chennai/thamizh-aadhavan-live/3900031025705951"
     },
     {
-      "name": "spain trials",
-      "date": "2026-11-22",
-      "city": "Chennai",
-      "venue": "ANE Sports Arena",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/spain-trials/200031032570149"
-    },
-    {
-      "name": "Free Generative AI with Python Workshop | LLM, RAG &amp; Agentic AI",
-      "date": "2026-11-23",
-      "city": "Hyderabad",
-      "venue": "Quality Thought",
-      "cat": "education",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/free-generative-ai-with-python-workshop-llm-rag-and-agentic-ai/100002004764021154"
-    },
-    {
       "name": "Bakery Business Trade Show",
       "date": "2026-11-24",
       "city": "Mumbai",
@@ -791,6 +737,15 @@
       "source_url": "https://allevents.in/hyderabad/celebrating-the-coen-brothers-no-country-for-old-men-film-screening/200030957932710"
     },
     {
+      "name": "The Listening Table - 90's English Edition",
+      "date": "2026-11-26",
+      "city": "Hyderabad",
+      "venue": "Audiocup Coffeehouse: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/the-listening-table-90s-english-edition/3900031048704651"
+    },
+    {
       "name": "Smirnoff Experience ft. ALESSO - Bengaluru",
       "date": "2026-11-27",
       "city": "Bangalore",
@@ -798,6 +753,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/smirnoff-experience-ft-alesso-bengaluru/3900030974869728"
+    },
+    {
+      "name": "\ud83d\udd25 DILJIT DOSANJH LIVE In MUMBAI\ud83d\udd25",
+      "date": "2026-11-27",
+      "city": "Mumbai",
+      "venue": "Mumbai - \u092e\u0941\u0902\u092c\u0908",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/diljit-dosanjh-live-in-mumbai/200031051603732"
     },
     {
       "name": "We The Women",
@@ -816,6 +780,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/kal-ki-chinta-nahi-karta-ft-ravi-gupta/3900030764278537"
+    },
+    {
+      "name": "The Great Indian Feast Trail",
+      "date": "2026-11-27",
+      "city": "Mumbai",
+      "venue": "Jio World Garden",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/the-great-indian-feast-trail/4100030969427849"
     },
     {
       "name": "South Side Story 2026 - Bengaluru",
@@ -861,6 +834,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/defender-weekend/3900030718670026"
+    },
+    {
+      "name": "SCC SkyCinema - Bollywood Weekend",
+      "date": "2026-11-28",
+      "city": "Mumbai",
+      "venue": "Infiniti Mall: Malad, Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/scc-skycinema-bollywood-weekend/3900030978129733"
     },
     {
       "name": "Ranjit Barot Presents CHINGARI",
@@ -1034,6 +1016,24 @@
       "source_url": "https://allevents.in/chennai/spb-charan-presents-25-stars-25-songs/3900030960437109"
     },
     {
+      "name": "Chennai Children's Day Fest",
+      "date": "2026-11-29",
+      "city": "Chennai",
+      "venue": "Orchids The International School Perungudi, Pillaiyar Koil Street, MCN Nagar Extension, Thoraipakkam, Chennai, Tamil Nadu, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chennai-childrens-day-fest-tickets/80001255778867"
+    },
+    {
+      "name": "Decathlon Nolambur State Level Inter School Competition 2026",
+      "date": "2026-11-29",
+      "city": "Chennai",
+      "venue": "Decathlon",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/decathlon-nolambur-state-level-inter-school-competition-2026-tickets/80001680019450"
+    },
+    {
       "name": "Musical Express Lakshman sruthi",
       "date": "2026-11-29",
       "city": "Chennai",
@@ -1041,24 +1041,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/musical-express-lakshman-sruthi/3900030965635112"
-    },
-    {
-      "name": "State Level Inter School Competition 2026",
-      "date": "2026-11-29",
-      "city": "Chennai",
-      "venue": "Decathlon",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/state-level-inter-school-competition-2026-tickets/80001680019450"
-    },
-    {
-      "name": "THE NEXT BIG - 2KM FAMILY WALK",
-      "date": "2026-11-29",
-      "city": "Chennai",
-      "venue": "Urbanrise Codename The Next Big Thing, 5th Cross Street, SIDCO, Urbanrise, Thirumazhisai, Chennai, Tamil Nadu, India",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/the-next-big-2km-family-walk-tickets/80001046217541"
     },
     {
       "name": "Kalam Sports Children's Day Kidzathon 2026",
@@ -1079,6 +1061,15 @@
       "source_url": "https://allevents.in/chennai/abayarangathilaga-an-epic-from-the-chozha-empire/3900030977398243"
     },
     {
+      "name": "UpperCrust Food &amp; Wine Show",
+      "date": "2026-12-03",
+      "city": "Mumbai",
+      "venue": "World Trade Centre",
+      "cat": "festival",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/uppercrust-food-and-wine-show/3700030946746342"
+    },
+    {
       "name": "Industrial Pumps and Valves 2026",
       "date": "2026-12-03",
       "city": "Hyderabad",
@@ -1086,6 +1077,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/industrial-pumps-and-valves-2026/100001989889217215"
+    },
+    {
+      "name": "Chess Meetup in Hyderabad \u00b7 Blue Tokai Gandipet",
+      "date": "2026-12-03",
+      "city": "Hyderabad",
+      "venue": "Blue Tokai Gandipet",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/chess-meetup-in-hyderabad-\u00b7-blue-tokai-gandipet/100002004775045127"
     },
     {
       "name": "The Lil Flea 2026",
@@ -1140,6 +1140,15 @@
       "cat": "comedy",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/aakash-mehta-the-wedding-show-stand-up-comedy/3900030734166704"
+    },
+    {
+      "name": "Tribal Sacrament IV",
+      "date": "2026-12-06",
+      "city": "Bangalore",
+      "venue": "The Beer Caf\u00e9",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759"
     },
     {
       "name": "La La Land Season 9 - A Experiential Flea",
@@ -1205,15 +1214,6 @@
       "source_url": "https://allevents.in/bangalore/fred-again-in-bengaluru/3300030339910215"
     },
     {
-      "name": "Rolling Loud India 2026",
-      "date": "2026-12-12",
-      "city": "Navi Mumbai",
-      "venue": "Loud Park, Kharghar",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/navi-mumbai/rolling-loud-india-2026/4100030937715601"
-    },
-    {
       "name": "SONUVERSE - Sonu Nigam Live in Mumbai",
       "date": "2026-12-12",
       "city": "Mumbai",
@@ -1232,6 +1232,15 @@
       "source_url": "https://allevents.in/hyderabad/taylor-swifts-the-eras-night-30/3900030942337301"
     },
     {
+      "name": "Chennai Juniorthon 2026 - 5th Edition",
+      "date": "2026-12-12",
+      "city": "Chennai",
+      "venue": "NEHRU PARK Sports Development Authority of Tamilnadu",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chennai-juniorthon-2026-5th-edition-tickets/80002589402541"
+    },
+    {
       "name": "THALAIVAR THIRUVIZHA",
       "date": "2026-12-12",
       "city": "Chennai",
@@ -1239,15 +1248,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/thalaivar-thiruvizha/3900030742812410"
-    },
-    {
-      "name": "Times Internet Bengaluru Marathon 2026",
-      "date": "2026-12-13",
-      "city": "Bangalore",
-      "venue": "Bengaluru",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/times-internet-bengaluru-marathon-2026/200030436616504"
     },
     {
       "name": "Darshan Raval's Love Letters India Tour",
@@ -1329,6 +1329,15 @@
       "cat": "festival",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/sunburn-festival-ft-the-chainsmokers/3900030310656953"
+    },
+    {
+      "name": "Sunburn Festival 2026",
+      "date": "2026-12-18",
+      "city": "Mumbai",
+      "venue": "Mahalaxmi Race Course: Mumbai",
+      "cat": "festival",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/sunburn-festival-2026/3900030066094725"
     },
     {
       "name": "The Chainsmokers in Mumbai",
