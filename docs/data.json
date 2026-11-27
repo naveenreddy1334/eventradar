@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-27T07:47:28.813761Z",
+  "generated_at": "2026-11-27T20:58:28.136312Z",
   "sources": {
     "allevents.in": {
-      "last_success": "2026-11-27T07:46:57.130292Z",
+      "last_success": "2026-11-27T20:57:56.777510Z",
       "event_count": 159,
       "status": "ok"
     },
@@ -16,24 +16,6 @@
     "bookmyshow.com"
   ],
   "events": [
-    {
-      "name": "Smirnoff Experience ft. ALESSO - Bengaluru",
-      "date": "2026-11-27",
-      "city": "Bangalore",
-      "venue": "Bhartiya Mall Of Bengaluru",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/smirnoff-experience-ft-alesso-bengaluru/3900030974869728"
-    },
-    {
-      "name": "Thalapathy Takeover",
-      "date": "2026-11-27",
-      "city": "Bangalore",
-      "venue": "Babylonia Pub",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/thalapathy-takeover-tickets/80001157552938"
-    },
     {
       "name": "Diljit Dosanjh - RuPay Aura India Tour, Mumbai",
       "date": "2026-11-27",
@@ -89,13 +71,13 @@
       "source_url": "https://allevents.in/mumbai/mega-property-and-investment-expo/3900030982002851"
     },
     {
-      "name": "Bars by Rolling Loud : Hyderabad",
+      "name": "Wonderla Amusement Park Hyderabad",
       "date": "2026-11-27",
       "city": "Hyderabad",
-      "venue": "Fat Pigeon - Bar Hop | Jubilee Hills, Hyderabad",
+      "venue": "Wonderla Amusement Park, Hyderabad",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/bars-by-rolling-loud-hyderabad/4100031131174107"
+      "source_url": "https://allevents.in/hyderabad/wonderla-amusement-park-hyderabad/4100031144274853"
     },
     {
       "name": "After Hours with Sufi and Ensemble",
@@ -105,6 +87,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/after-hours-with-sufi-and-ensemble/3900031080666837"
+    },
+    {
+      "name": "Bars by Rolling Loud : Hyderabad",
+      "date": "2026-11-27",
+      "city": "Hyderabad",
+      "venue": "Fat Pigeon - Bar Hop | Jubilee Hills, Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/bars-by-rolling-loud-hyderabad/4100031131174107"
     },
     {
       "name": "Groovejet",
@@ -123,6 +114,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/south-side-story-2026-bengaluru/200030629077923"
+    },
+    {
+      "name": "Carnatic Saxophone Concert by Vidwan Sri G Ramanathan",
+      "date": "2026-11-28",
+      "city": "Bangalore",
+      "venue": "Indira Nagar Sangeetha Sabha &amp; The School of Performing Arts, 8th Main Road, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka, India",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/carnatic-saxophone-concert-by-vidwan-sri-g-ramanathan-tickets/80002742798552"
     },
     {
       "name": "Usha Uthup Live in Borivali",
@@ -179,6 +179,15 @@
       "source_url": "https://allevents.in/mumbai/dr-kumar-vishwas-live-in-kavi-sammelan-concert/3900030135114527"
     },
     {
+      "name": "Albattya Galbattya - Marathi Play",
+      "date": "2026-11-28",
+      "city": "Mumbai",
+      "venue": "Acharya Pralhad Keshav Atre RangMandir: Kalyan",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/albattya-galbattya-marathi-play/3900030973942755"
+    },
+    {
       "name": "Papon Live In Concert",
       "date": "2026-11-28",
       "city": "Hyderabad",
@@ -215,6 +224,15 @@
       "source_url": "https://allevents.in/hyderabad/ai-finops-managing-llm-gpu-and-agentic-ai-costs/100002003559273722"
     },
     {
+      "name": "HEH 10X Your Growth With AI",
+      "date": "2026-11-28",
+      "city": "Hyderabad",
+      "venue": "Katriya Hotel: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/heh-10x-your-growth-with-ai/3900031150905046"
+    },
+    {
       "name": "CHENNAIYIN FC vs MUMBAI CITY FC.",
       "date": "2026-11-28",
       "city": "Chennai",
@@ -222,15 +240,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/chennaiyin-fc-vs-mumbai-city-fc/3900031070613519"
-    },
-    {
-      "name": "Dubai Property Expo \u2013 Chennai",
-      "date": "2026-11-28",
-      "city": "Chennai",
-      "venue": "Taj Coromandel, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/dubai-property-expo-chennai/100002004580594520"
     },
     {
       "name": "TAMIL 360 Degree - THE BOILER ROOM EXPERIENCE",
@@ -242,6 +251,15 @@
       "source_url": "https://allevents.in/chennai/tamil-360-degree-the-boiler-room-experience/3900031131886020"
     },
     {
+      "name": "Dubai Property Expo \u2013 Chennai",
+      "date": "2026-11-28",
+      "city": "Chennai",
+      "venue": "Taj Coromandel, Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/dubai-property-expo-chennai/100002004580594520"
+    },
+    {
       "name": "major minor live in chennai",
       "date": "2026-11-28",
       "city": "Chennai",
@@ -249,15 +267,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/major-minor-live-in-chennai/3900031052206812"
-    },
-    {
-      "name": "Evergreen Tamizh Retro Raagam with MJ Sri Ram - Copy",
-      "date": "2026-11-28",
-      "city": "Chennai",
-      "venue": "Jekyll and Hyde  | Porur, Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/evergreen-tamizh-retro-raagam-with-mj-sri-ram-copy/4100031054245410"
     },
     {
       "name": "IT Leadership Teable",
@@ -323,6 +332,15 @@
       "source_url": "https://allevents.in/mumbai/patra-patri/3900030975603105"
     },
     {
+      "name": "Joyathon by Little Joys",
+      "date": "2026-11-29",
+      "city": "Mumbai",
+      "venue": "Parking lot (little joys)",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/joyathon-by-little-joys/4100030984888722"
+    },
+    {
       "name": "TEACHER'S OPEN COMEDY FESTIVAL - HYDERABAD",
       "date": "2026-11-29",
       "city": "Hyderabad",
@@ -339,15 +357,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/dont-give-your-best-by-rahul-subramanian/3900030683778035"
-    },
-    {
-      "name": "SNKRHOOD Desi Drip",
-      "date": "2026-11-29",
-      "city": "Hyderabad",
-      "venue": "ONEGOLF BREWERY",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/snkrhood-desi-drip/4100030935386918"
     },
     {
       "name": "Rajat Chauhan Live",
@@ -386,6 +395,33 @@
       "source_url": "https://allevents.in/hyderabad/dhun-the-band/3900030997443603"
     },
     {
+      "name": "SUNDAY SAFARI FT. DJ AKHIL",
+      "date": "2026-11-29",
+      "city": "Hyderabad",
+      "venue": "TOS Club and Lounge: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/sunday-safari-ft-dj-akhil/3900031131638338"
+    },
+    {
+      "name": "SwaRagam Sing Along Edition 19",
+      "date": "2026-11-29",
+      "city": "Hyderabad",
+      "venue": "TapStreet Brews: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/swaragam-sing-along-edition-19/3900031117153740"
+    },
+    {
+      "name": "Sunset &amp; Skyline 6.0 The Afro Terra",
+      "date": "2026-11-29",
+      "city": "Hyderabad",
+      "venue": "Kingdome Klub and Kitchen: Hyderabad",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/sunset-and-skyline-60-the-afro-terra/3900031092035611"
+    },
+    {
       "name": "DILJIT DOSHANJ  BANGLORE TOUR",
       "date": "2026-11-29",
       "city": "Chennai",
@@ -402,6 +438,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/spb-charan-presents-25-stars-25-songs/3900030960437109"
+    },
+    {
+      "name": "Screening of Qatar Grand Prix 2026 at Cafe La Mirajh, Anna Nagar",
+      "date": "2026-11-29",
+      "city": "Chennai",
+      "venue": "Cafe la Mirajh",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/screening-of-qatar-grand-prix-2026-at-cafe-la-mirajh-anna-nagar/4100031144339029"
     },
     {
       "name": "Tamil Music Concert | SPB Charan | SPB Musical Tribute",
@@ -431,31 +476,40 @@
       "source_url": "https://allevents.in/chennai/musical-express-lakshman-sruthi/3900030965635112"
     },
     {
-      "name": "Screening of Qatar Grand Prix 2026 at Cafe La Mirajh, Anna Nagar",
+      "name": "Chennai KIDS Walkathon",
       "date": "2026-11-29",
       "city": "Chennai",
-      "venue": "Cafe la Mirajh",
+      "venue": "Orchids The International School Perungudi, Pillaiyar Koil Street, MCN Nagar Extension, Thoraipakkam, Chennai, Tamil Nadu, India",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/screening-of-qatar-grand-prix-2026-at-cafe-la-mirajh-anna-nagar/4100031144339029"
+      "source_url": "https://allevents.in/chennai/chennai-kids-walkathon-tickets/80008386645825"
     },
     {
-      "name": "State Level Inter School Yoga Championship 2026",
+      "name": "Decathlon Nolambur State Level Inter School Competition 2026",
       "date": "2026-11-29",
       "city": "Chennai",
-      "venue": "Decathlon | Nolambur | Chennai",
+      "venue": "Decathlon",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/state-level-inter-school-yoga-championship-2026/200031059406234"
+      "source_url": "https://allevents.in/chennai/decathlon-nolambur-state-level-inter-school-competition-2026-tickets/80001680019450"
     },
     {
-      "name": "Abayarangathilaga! An Epic from the Chozha Empire",
+      "name": "THE NEXT BIG - 2KM FAMILY WALK",
       "date": "2026-11-29",
       "city": "Chennai",
-      "venue": "Alliance Francaise of Madras: Chennai",
+      "venue": "Urbanrise Codename The Next Big Thing, 5th Cross Street, SIDCO, Urbanrise, Thirumazhisai, Chennai, Tamil Nadu, India",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/abayarangathilaga-an-epic-from-the-chozha-empire/3900030977398243"
+      "source_url": "https://allevents.in/chennai/the-next-big-2km-family-walk-tickets/80001046217541"
+    },
+    {
+      "name": "Chess Event for U15 - Skilpad",
+      "date": "2026-11-29",
+      "city": "Chennai",
+      "venue": "Skilpad Academy and Turf: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/chess-event-for-u15-skilpad/3900031129001136"
     },
     {
       "name": "QS Discover &amp; Connect Master's Fair in Dhaka",
@@ -465,15 +519,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/mumbai/qs-discover-and-connect-masters-fair-in-dhaka/100001998747999070"
-    },
-    {
-      "name": "Old Love New Monsoon",
-      "date": "2026-11-30",
-      "city": "Chennai",
-      "venue": "AF Madras",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/old-love-new-monsoon-tickets/80009181398411"
     },
     {
       "name": "Global STEM Education Expo 2026 - Hyderabad",
@@ -492,6 +537,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/international-exhibition-and-conference-on-pulp-paper-and-allied-industries/3700030942329915"
+    },
+    {
+      "name": "Biswa kalyanrath live - A trial show",
+      "date": "2026-12-03",
+      "city": "Mumbai",
+      "venue": "The J Spot, Juhu: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/biswa-kalyanrath-live-a-trial-show/3900031154173415"
     },
     {
       "name": "UpperCrust Food &amp; Wine Show",
@@ -575,6 +629,15 @@
       "source_url": "https://allevents.in/bangalore/bengaluru-midnight-marathon-2026/200030682113634"
     },
     {
+      "name": "Vijay Prakash-Voice Of The Nation",
+      "date": "2026-12-05",
+      "city": "Bangalore",
+      "venue": "Eden Event Area, Phoenix Mall Of Asia: Bengaluru",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/vijay-prakash-voice-of-the-nation/3900030978187115"
+    },
+    {
       "name": "Red Bull Symphonic with Sunidhi Chauhan",
       "date": "2026-12-05",
       "city": "Mumbai",
@@ -602,6 +665,15 @@
       "source_url": "https://allevents.in/hyderabad/road-to-lolla-india-presents-fish56octagon/3900031092035327"
     },
     {
+      "name": "Entrepreneur's Mixer (Hyderabad)",
+      "date": "2026-12-05",
+      "city": "Hyderabad",
+      "venue": "Venkatagiri",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/entrepreneurs-mixer-hyderabad/100002002462930530"
+    },
+    {
       "name": "Aakash Mehta - The Wedding Show (Stand up Comedy)",
       "date": "2026-12-05",
       "city": "Hyderabad",
@@ -620,15 +692,6 @@
       "source_url": "https://allevents.in/hyderabad/thinking-and-doing-joel-dsouza/3900030701451207"
     },
     {
-      "name": "Global Supply Chain Excellence Summit \u2013 Edition 8 | Virtual Edition",
-      "date": "2026-12-05",
-      "city": "Hyderabad",
-      "venue": "Plot No. 1-11-301/3, 3rd Floor, Unnathasan Reddy Towers, Begumpet, Hyderabad, India 500016, Telangana",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/global-supply-chain-excellence-summit-edition-8-virtual-edition/200030995750822"
-    },
-    {
       "name": "EXTRA ORDINARY - Standup Comedy Ft. MANOJ PRABAKAR",
       "date": "2026-12-05",
       "city": "Chennai",
@@ -638,6 +701,15 @@
       "source_url": "https://allevents.in/chennai/extra-ordinary-standup-comedy-ft-manoj-prabakar/3900031117228638"
     },
     {
+      "name": "EIRABBA - Chennai's Telugu Jamming",
+      "date": "2026-12-05",
+      "city": "Chennai",
+      "venue": "Vspacez: Chennai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/chennai/eirabba-chennais-telugu-jamming/3900031143720007"
+    },
+    {
       "name": "Tribal Sacrament IV",
       "date": "2026-12-06",
       "city": "Bangalore",
@@ -645,15 +717,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/bangalore/tribal-sacrament-iv-tickets/80008473959759"
-    },
-    {
-      "name": "Paws At The Pier - Christmas Carnival",
-      "date": "2026-12-06",
-      "city": "Mumbai",
-      "venue": "The Ballard Pier Downtown Experience Centre:Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/paws-at-the-pier-christmas-carnival/3900031046067711"
     },
     {
       "name": "Citi NCPA Aadi Anant: Beat Route",
@@ -755,15 +818,6 @@
       "source_url": "https://allevents.in/hyderabad/bandhani-sale-hyderabad/200031089898832"
     },
     {
-      "name": "India Art Festival",
-      "date": "2026-12-10",
-      "city": "Bangalore",
-      "venue": "Palace Grounds",
-      "cat": "festival",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/bangalore/india-art-festival/3700031075052758"
-    },
-    {
       "name": "CHENNAIYIN FC VS CHURCHILL BROTHERS",
       "date": "2026-12-10",
       "city": "Chennai",
@@ -800,15 +854,6 @@
       "source_url": "https://allevents.in/mumbai/duos-ft-kenny-sebastian-and-tarang-hardikar-kcc/3900031058814319"
     },
     {
-      "name": "World of Christmas at Jio World Drive",
-      "date": "2026-12-11",
-      "city": "Mumbai",
-      "venue": "Jio World Drive: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/world-of-christmas-at-jio-world-drive/3900031085681937"
-    },
-    {
       "name": "Hyderabad Comic Con 2026",
       "date": "2026-12-11",
       "city": "Hyderabad",
@@ -825,6 +870,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/ad-design-show-2026-hyderabad/3900030021253400"
+    },
+    {
+      "name": "Niraval Live",
+      "date": "2026-12-11",
+      "city": "Hyderabad",
+      "venue": "Heart Cup Coffee: Gachibowli",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/niraval-live/3900031098852450"
     },
     {
       "name": "Fred again.. in Bengaluru",
@@ -890,6 +944,15 @@
       "source_url": "https://allevents.in/mumbai/aranyas-jo-dooba-so-paar/3900031041036655"
     },
     {
+      "name": "KIDZWORLD EXPO - SOUTH MUMBAI",
+      "date": "2026-12-12",
+      "city": "Mumbai",
+      "venue": "World Trade Center: Mumbai",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/kidzworld-expo-south-mumbai/3900030692884847"
+    },
+    {
       "name": "BIG TV FOLK NIGHT",
       "date": "2026-12-12",
       "city": "Hyderabad",
@@ -926,6 +989,15 @@
       "source_url": "https://allevents.in/hyderabad/qs-discover-masters-fair-in-hyderabad/100001998748315015"
     },
     {
+      "name": "TradeIQ : India's Biggest Trading Concert",
+      "date": "2026-12-12",
+      "city": "Hyderabad",
+      "venue": "TGRTC KALABHAVAN",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/hyderabad/tradeiq-indias-biggest-trading-concert/4100031150346615"
+    },
+    {
       "name": "Jingleverse Carnival",
       "date": "2026-12-12",
       "city": "Hyderabad",
@@ -933,15 +1005,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/jingleverse-carnival/3900031065188211"
-    },
-    {
-      "name": "Hyderabad Franchise &amp; Business Expo",
-      "date": "2026-12-12",
-      "city": "Hyderabad",
-      "venue": "ISTHA CONVENTION And GALLERY Hitech City Hyderabad",
-      "cat": "corporate",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/hyderabad-franchise-and-business-expo/200031113811404"
     },
     {
       "name": "THALAIVAR THIRUVIZHA",
@@ -953,13 +1016,13 @@
       "source_url": "https://allevents.in/chennai/thalaivar-thiruvizha/3900030742812410"
     },
     {
-      "name": "Thalaivar Niranthiram",
+      "name": "Pawga's Christmas Ornament Painting with Puppies",
       "date": "2026-12-12",
       "city": "Chennai",
-      "venue": "Punch - Unpaid Therapist: Chennai",
+      "venue": "Romancham Cafe",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/thalaivar-niranthiram/3900031139649614"
+      "source_url": "https://allevents.in/chennai/pawgas-christmas-ornament-painting-with-puppies/4100031144340648"
     },
     {
       "name": "Times Internet Bengaluru Marathon 2026",
@@ -989,13 +1052,13 @@
       "source_url": "https://allevents.in/mumbai/duos-ft-kenny-sebastian-and-prashasti-singh-kcc/3900031053916327"
     },
     {
-      "name": "Christmas Flea by BTW",
+      "name": "KYN x VAMOS Chennai Half Marathon 2026",
       "date": "2026-12-13",
-      "city": "Mumbai",
-      "venue": "Khar Gymkhana: Khar",
+      "city": "Chennai",
+      "venue": "Marina Beach: Chennai",
       "cat": "concert",
       "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/christmas-flea-by-btw/3900031053932748"
+      "source_url": "https://allevents.in/chennai/kyn-x-vamos-chennai-half-marathon-2026/3900031055249422"
     },
     {
       "name": "ONNU SOLLANUM STAND UP COMEDY",
@@ -1160,15 +1223,6 @@
       "source_url": "https://allevents.in/chennai/dushyanth-sridhars-discourse-bolava-vitthala/3900030999347444"
     },
     {
-      "name": "Festival Of Festive Music 2026 Mumbai Edition",
-      "date": "2026-12-19",
-      "city": "Mumbai",
-      "venue": "St. Andrews Auditorium: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/festival-of-festive-music-2026-mumbai-edition/3900030975129333"
-    },
-    {
       "name": "Deccan Folk Jam with The Raghu Dixit Project",
       "date": "2026-12-19",
       "city": "Hyderabad",
@@ -1194,24 +1248,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/unnikrishnan-and-uthara-present-classical-concert/3900030999096818"
-    },
-    {
-      "name": "Thaen Mittai",
-      "date": "2026-12-19",
-      "city": "Chennai",
-      "venue": "Arangam art space: Chennai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/thaen-mittai/3900031143726744"
-    },
-    {
-      "name": "Gaurav Gupta Live - India Tour",
-      "date": "2026-12-20",
-      "city": "Mumbai",
-      "venue": "Shanmukhananda Hall: Mumbai",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/mumbai/gaurav-gupta-live-india-tour/3900030729027500"
     },
     {
       "name": "Bhajan Concert",
@@ -1259,15 +1295,6 @@
       "source_url": "https://allevents.in/chennai/sid-sriram-classical-concert/3900030999085121"
     },
     {
-      "name": "Mirra Theater Production Dec 2026",
-      "date": "2026-12-20",
-      "city": "Chennai",
-      "venue": "National Institute of Fashion Technology",
-      "cat": "theatre",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/chennai/mirra-theater-production-dec-2026/100002005274249260"
-    },
-    {
       "name": "INTIMASIA -Worlds second largest Trade show co-loacted with SOURCENXT",
       "date": "2026-12-22",
       "city": "Mumbai",
@@ -1293,6 +1320,15 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/santopia-santas-secret-paradise/3900031057422821"
+    },
+    {
+      "name": "Rangbaaz Productions JUNGLE BOOK 2 The beast",
+      "date": "2026-12-25",
+      "city": "Mumbai",
+      "venue": "Prithvi Theatre",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/mumbai/rangbaaz-productions-jungle-book-2-the-beast/3900031131373751"
     },
     {
       "name": "Francis Mercier- Live in Hyderabad",
@@ -1358,6 +1394,15 @@
       "source_url": "https://allevents.in/chennai/meenakshi-chittaranjan-s-bharathanatyam/3900030999340232"
     },
     {
+      "name": "New Year Party VELEVTE 2027",
+      "date": "2026-12-31",
+      "city": "Bangalore",
+      "venue": "Taj MG Road, Bengaluru",
+      "cat": "concert",
+      "source": "allevents.in",
+      "source_url": "https://allevents.in/bangalore/new-year-party-velevte-2027-tickets/80001589044961"
+    },
+    {
       "name": "THE PRISM CIRCUS 2027 ft KARTHIK",
       "date": "2026-12-31",
       "city": "Hyderabad",
@@ -1365,42 +1410,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/hyderabad/the-prism-circus-2027-ft-karthik/3900031057412703"
-    },
-    {
-      "name": "THECELESTIAL NYE 2027",
-      "date": "2026-12-31",
-      "city": "Hyderabad",
-      "venue": "Taj Deccan: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/thecelestial-nye-2027/3900031131647819"
-    },
-    {
-      "name": "infiniti nye 2027",
-      "date": "2026-12-31",
-      "city": "Hyderabad",
-      "venue": "Zen Convention: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/infiniti-nye-2027/3900031041219306"
-    },
-    {
-      "name": "Hyderabad NYE 2027",
-      "date": "2026-12-31",
-      "city": "Hyderabad",
-      "venue": "BSR Cricket Ground: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/hyderabad-nye-2027/3900030965301348"
-    },
-    {
-      "name": "SK NEW YEAR BASH 2027 - HYDERABADS BIGGEST NYE",
-      "date": "2026-12-31",
-      "city": "Hyderabad",
-      "venue": "Hitech Arena: Hyderabad",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/sk-new-year-bash-2027-hyderabads-biggest-nye/3900031085865906"
     },
     {
       "name": "Attam Kondattam, MG @Chennai",
@@ -1419,15 +1428,6 @@
       "cat": "concert",
       "source": "allevents.in",
       "source_url": "https://allevents.in/chennai/beedi-ft-munawar-faruqui/3900030732845924"
-    },
-    {
-      "name": "EAW Global Aqua Expo 2027",
-      "date": "2027-01-22",
-      "city": "Hyderabad",
-      "venue": "hitex",
-      "cat": "concert",
-      "source": "allevents.in",
-      "source_url": "https://allevents.in/hyderabad/eaw-global-aqua-expo-2027/100001999669060991"
     },
     {
       "name": "Lollapalooza India 2027",
